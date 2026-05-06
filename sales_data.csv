@@ -1,0 +1,936 @@
+Order ID,Order Date,Ship Date,Ship Mode,Segment,Region,City,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Profit Margin
+CA-2022-01000,2022-01-24,2022-01-25,Second Class,Consumer,West,Seattle,Technology,Technology,Motorola Smart Phone,3580.02,9,0,580.65,16.22
+CA-2022-01001,2022-01-23,2022-01-29,Second Class,Consumer,West,Denver,Technology,Technology,Apple Smart Phone Full Size,12110.67,9,0,1997.3,16.49
+CA-2022-01002,2022-01-25,2022-01-28,First Class,Home Office,Central,Minneapolis,Technology,Technology,Apple Smart Phone Full Size,828.66,2,0,107.45,12.97
+CA-2022-01003,2022-01-03,2022-01-08,Second Class,Home Office,Central,Kansas City,Furniture,Furniture,O Sullivan Living Dimensions,5044.65,5,0,451.4,8.95
+CA-2022-01004,2022-01-03,2022-01-10,First Class,Home Office,Central,Chicago,Furniture,Furniture,Bush Advantage Collection Desk,4201.84,4,0.1,295.85,7.04
+CA-2022-01005,2022-01-23,2022-01-29,Second Class,Consumer,West,Seattle,Technology,Technology,Plantronics Savi W720,3772.04,2,0.3,517.2,13.71
+CA-2022-01006,2022-01-08,2022-01-14,First Class,Consumer,East,Philadelphia,Office Supplies,Office Supplies,Rogers File Cabinet,1521.84,6,0,464.47,30.52
+CA-2022-01007,2022-01-23,2022-01-26,Second Class,Corporate,East,New York,Technology,Technology,Lenovo ThinkPad,8072.0,4,0.3,1287.99,15.96
+CA-2022-01008,2022-01-09,2022-01-15,Second Class,Consumer,West,San Francisco,Office Supplies,Office Supplies,Rogers File Cabinet,1313.9,10,0,350.43,26.67
+CA-2022-01009,2022-01-05,2022-01-11,Same Day,Corporate,East,New York,Office Supplies,Office Supplies,GBC DocuBind P400,715.98,3,0,167.85,23.44
+CA-2022-01010,2022-01-28,2022-01-29,First Class,Home Office,East,Washington DC,Furniture,Furniture,Bevis Round Conference Table,1687.04,2,0,139.95,8.3
+CA-2022-01011,2022-01-24,2022-01-30,First Class,Consumer,West,Phoenix,Technology,Technology,Canon imageCLASS Copier,14599.4,5,0.2,2864.35,19.62
+CA-2022-01012,2022-01-12,2022-01-19,First Class,Consumer,South,Charlotte,Furniture,Furniture,Sauder Classic Bookcase,2052.3,3,0.2,209.93,10.23
+CA-2022-01013,2022-01-08,2022-01-09,Same Day,Home Office,East,New York,Office Supplies,Office Supplies,Acco Binder,1056.04,4,0,358.41,33.94
+CA-2022-01014,2022-01-22,2022-01-26,Second Class,Corporate,Central,Indianapolis,Office Supplies,Office Supplies,Fellowes PB500 Binder,483.39,9,0.2,123.52,25.55
+CA-2022-01015,2022-01-22,2022-01-28,Second Class,Consumer,South,Miami,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,805.44,6,0,204.19,25.35
+CA-2022-01016,2022-01-19,2022-01-21,Standard Class,Consumer,West,Los Angeles,Furniture,Furniture,Global Adaptabilites Bookcase,159.51,1,0,14.43,9.05
+CA-2022-01017,2022-01-22,2022-01-26,Same Day,Home Office,South,Houston,Furniture,Furniture,Bush Advantage Collection Desk,2735.76,4,0.2,267.74,9.79
+CA-2022-01018,2022-01-04,2022-01-05,Standard Class,Consumer,West,Phoenix,Office Supplies,Office Supplies,Avery Binders,766.64,7,0.3,178.03,23.22
+CA-2022-01019,2022-01-08,2022-01-10,Same Day,Corporate,West,Seattle,Office Supplies,Office Supplies,GBC DocuBind P400,652.8,4,0,116.22,17.8
+CA-2022-01020,2022-01-04,2022-01-05,Same Day,Consumer,West,Los Angeles,Furniture,Furniture,Bevis Round Conference Table,9147.15,9,0,1074.97,11.75
+CA-2022-01021,2022-01-06,2022-01-10,Same Day,Corporate,East,Boston,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,295.67,1,0.1,60.03,20.3
+CA-2022-01022,2022-01-05,2022-01-07,Standard Class,Home Office,Central,Indianapolis,Furniture,Furniture,Chromcraft Bull-Nose Table,1619.15,5,0.3,72.34,4.47
+CA-2022-01023,2022-01-17,2022-01-24,Standard Class,Consumer,Central,Chicago,Technology,Technology,"Samsung Monitor 27""",5388.12,9,0,1164.25,21.61
+CA-2022-01024,2022-01-08,2022-01-13,First Class,Home Office,East,Boston,Furniture,Furniture,Lesro Sheffield Chair,1245.1,10,0.3,57.97,4.66
+CA-2022-01025,2022-01-08,2022-01-11,Standard Class,Corporate,South,Miami,Furniture,Furniture,Harbour Creations Chair,1586.06,7,0.1,145.35,9.16
+CA-2022-01026,2022-01-03,2022-01-08,Second Class,Consumer,West,Denver,Office Supplies,Office Supplies,GBC DocuBind P400,616.96,4,0,108.89,17.65
+CA-2022-01027,2022-01-23,2022-01-26,First Class,Consumer,East,Boston,Furniture,Furniture,Bevis Round Conference Table,11819.2,10,0.2,1235.91,10.46
+CA-2022-01028,2022-02-24,2022-03-01,Second Class,Corporate,West,San Francisco,Technology,Technology,Cisco TelePresence System,2778.57,3,0.3,501.48,18.05
+CA-2022-01029,2022-02-28,2022-03-01,First Class,Consumer,Central,Minneapolis,Furniture,Furniture,Bush Advantage Collection Desk,1580.8,2,0,168.11,10.63
+CA-2022-01030,2022-02-18,2022-02-24,Standard Class,Consumer,Central,Minneapolis,Technology,Technology,"Samsung Monitor 27""",12240.06,7,0.3,1605.74,13.12
+CA-2022-01031,2022-02-05,2022-02-06,Second Class,Corporate,South,Charlotte,Furniture,Furniture,O Sullivan Living Dimensions,2442.05,5,0,279.97,11.46
+CA-2022-01032,2022-02-28,2022-03-04,Second Class,Consumer,Central,Chicago,Technology,Technology,Belkin USB Hub,22860.1,10,0,4859.52,21.26
+CA-2022-01033,2022-02-26,2022-03-02,Standard Class,Corporate,South,Houston,Technology,Technology,Logitech MK710 Keyboard,3641.6,4,0,723.72,19.87
+CA-2022-01034,2022-02-12,2022-02-15,First Class,Corporate,South,Miami,Technology,Technology,"Samsung Monitor 27""",3141.32,4,0.1,584.3,18.6
+CA-2022-01035,2022-02-13,2022-02-19,First Class,Consumer,South,Atlanta,Technology,Technology,Belkin USB Hub,9844.02,9,0,1208.45,12.28
+CA-2022-01036,2022-02-14,2022-02-19,Standard Class,Corporate,West,Denver,Furniture,Furniture,Harbour Creations Chair,1885.68,9,0,211.12,11.2
+CA-2022-01037,2022-02-22,2022-02-28,First Class,Corporate,Central,Chicago,Furniture,Furniture,Bevis Round Conference Table,1951.72,4,0.3,88.99,4.56
+CA-2022-01038,2022-02-17,2022-02-20,Second Class,Consumer,Central,Chicago,Office Supplies,Office Supplies,Acco Binder,708.54,7,0.2,205.08,28.94
+CA-2022-01039,2022-02-20,2022-02-25,Second Class,Corporate,East,Washington DC,Furniture,Furniture,Sauder Classic Bookcase,2674.0,5,0,285.31,10.67
+CA-2022-01040,2022-02-15,2022-02-19,Standard Class,Consumer,East,Baltimore,Furniture,Furniture,Harbour Creations Chair,6693.6,8,0.3,541.47,8.09
+CA-2022-01041,2022-02-22,2022-02-25,Same Day,Consumer,West,Denver,Technology,Technology,Apple Smart Phone Full Size,9794.8,4,0,1319.71,13.47
+CA-2022-01042,2022-02-07,2022-02-13,Standard Class,Home Office,Central,Chicago,Furniture,Furniture,Lesro Sheffield Chair,4435.9,7,0.3,264.02,5.95
+CA-2022-01043,2022-02-06,2022-02-13,Second Class,Corporate,South,Houston,Office Supplies,Office Supplies,Avery Binders,1278.36,9,0,334.27,26.15
+CA-2022-01044,2022-02-11,2022-02-18,Same Day,Corporate,Central,Indianapolis,Office Supplies,Office Supplies,Fiskars Scissors,1485.84,8,0.2,436.62,29.39
+CA-2022-01045,2022-02-27,2022-03-05,First Class,Consumer,South,New Orleans,Furniture,Furniture,Global Adaptabilites Bookcase,4688.55,5,0.3,383.07,8.17
+CA-2022-01046,2022-02-11,2022-02-16,Second Class,Consumer,East,Philadelphia,Technology,Technology,Logitech MK710 Keyboard,1088.74,2,0.3,155.83,14.31
+CA-2022-01047,2022-02-14,2022-02-15,Standard Class,Home Office,West,Phoenix,Technology,Technology,"Samsung Monitor 27""",10094.96,4,0.2,1604.57,15.89
+CA-2022-01048,2022-02-12,2022-02-15,Second Class,Home Office,South,Charlotte,Furniture,Furniture,HON 5400 Series Task Chair,7251.02,7,0.1,843.11,11.63
+CA-2022-01049,2022-02-13,2022-02-16,Standard Class,Home Office,East,Philadelphia,Furniture,Furniture,HON 5400 Series Task Chair,6237.56,7,0,668.92,10.72
+CA-2022-01050,2022-02-03,2022-02-09,Same Day,Corporate,South,Charlotte,Furniture,Furniture,HON 5400 Series Task Chair,1623.86,7,0,124.93,7.69
+CA-2022-01051,2022-02-09,2022-02-16,Standard Class,Home Office,East,Washington DC,Technology,Technology,HP LaserJet Pro,6082.79,7,0,779.76,12.82
+CA-2022-01052,2022-02-25,2022-03-03,Second Class,Consumer,South,Atlanta,Technology,Technology,Cisco TelePresence System,2299.56,1,0,494.32,21.5
+CA-2022-01053,2022-02-07,2022-02-11,Standard Class,Home Office,West,Phoenix,Furniture,Furniture,Lesro Sheffield Chair,4694.65,5,0.2,250.8,5.34
+CA-2022-01054,2022-02-19,2022-02-20,Second Class,Corporate,Central,Dallas,Office Supplies,Office Supplies,GBC DocuBind P400,874.3,5,0.1,289.92,33.16
+CA-2022-01055,2022-02-28,2022-03-06,First Class,Consumer,West,San Francisco,Technology,Technology,Plantronics Savi W720,24457.5,10,0.2,4882.27,19.96
+CA-2022-01056,2022-03-01,2022-03-08,Same Day,Home Office,East,Philadelphia,Technology,Technology,Logitech MK710 Keyboard,17455.48,7,0,2278.88,13.06
+CA-2022-01057,2022-03-21,2022-03-24,Same Day,Corporate,Central,Kansas City,Technology,Technology,Belkin USB Hub,24533.7,10,0.1,4264.38,17.38
+CA-2022-01058,2022-03-27,2022-03-28,Same Day,Home Office,Central,Indianapolis,Technology,Technology,Apple Smart Phone Full Size,13313.25,5,0.1,1922.25,14.44
+CA-2022-01059,2022-03-16,2022-03-18,First Class,Home Office,East,Washington DC,Office Supplies,Office Supplies,Fellowes PB500 Binder,1442.16,6,0.2,314.49,21.81
+CA-2022-01060,2022-03-08,2022-03-14,Same Day,Corporate,East,Baltimore,Office Supplies,Office Supplies,GBC DocuBind P400,1043.91,7,0.3,314.88,30.16
+CA-2022-01061,2022-03-13,2022-03-19,First Class,Home Office,East,New York,Technology,Technology,Apple Smart Phone Full Size,4090.76,4,0.1,728.79,17.82
+CA-2022-01062,2022-03-09,2022-03-12,Second Class,Consumer,East,Baltimore,Technology,Technology,"Samsung Monitor 27""",4035.15,5,0,775.27,19.21
+CA-2022-01063,2022-03-25,2022-03-30,Second Class,Corporate,West,Phoenix,Technology,Technology,Lenovo ThinkPad,9565.5,10,0,1244.02,13.01
+CA-2022-01064,2022-03-05,2022-03-08,Same Day,Consumer,East,Philadelphia,Technology,Technology,Belkin USB Hub,2926.74,1,0.3,513.16,17.53
+CA-2022-01065,2022-03-16,2022-03-20,Standard Class,Consumer,West,Los Angeles,Furniture,Furniture,Chromcraft Bull-Nose Table,1718.94,6,0.1,75.82,4.41
+CA-2022-01066,2022-03-05,2022-03-07,Same Day,Consumer,East,New York,Furniture,Furniture,HON 5400 Series Task Chair,11430.2,10,0,535.1,4.68
+CA-2022-01067,2022-03-13,2022-03-17,Standard Class,Corporate,East,Baltimore,Technology,Technology,Belkin USB Hub,7979.68,8,0.1,1427.19,17.89
+CA-2022-01068,2022-03-21,2022-03-23,Standard Class,Home Office,East,New York,Office Supplies,Office Supplies,Avery Binders,999.15,5,0,181.26,18.14
+CA-2022-01069,2022-03-16,2022-03-19,Standard Class,Corporate,West,Phoenix,Furniture,Furniture,Lesro Sheffield Chair,339.25,1,0.3,32.76,9.66
+CA-2022-01070,2022-03-22,2022-03-29,First Class,Consumer,Central,Minneapolis,Office Supplies,Office Supplies,Fiskars Scissors,521.68,4,0.3,135.07,25.89
+CA-2022-01071,2022-03-20,2022-03-26,First Class,Home Office,Central,Chicago,Technology,Technology,Plantronics Savi W720,27754.0,10,0.1,4549.31,16.39
+CA-2022-01072,2022-03-15,2022-03-16,First Class,Home Office,Central,Minneapolis,Furniture,Furniture,Chromcraft Bull-Nose Table,1246.4,10,0,92.93,7.46
+CA-2022-01073,2022-03-19,2022-03-20,Same Day,Corporate,West,San Francisco,Office Supplies,Office Supplies,Fiskars Scissors,874.95,5,0,264.78,30.26
+CA-2022-01074,2022-03-21,2022-03-28,First Class,Corporate,South,Miami,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,2326.96,8,0.1,567.78,24.4
+CA-2022-01075,2022-03-10,2022-03-16,First Class,Consumer,Central,Dallas,Technology,Technology,"Samsung Monitor 27""",17280.62,7,0.1,3024.28,17.5
+CA-2022-01076,2022-03-28,2022-04-02,Second Class,Consumer,West,Los Angeles,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,199.01,1,0.1,51.45,25.85
+CA-2022-01077,2022-03-25,2022-03-26,Same Day,Corporate,East,Baltimore,Office Supplies,Office Supplies,Eldon Stackable Letterbox,335.12,4,0,59.05,17.62
+CA-2022-01078,2022-03-10,2022-03-15,Standard Class,Corporate,West,Denver,Office Supplies,Office Supplies,Fellowes PB500 Binder,167.91,1,0,28.32,16.87
+CA-2022-01079,2022-03-17,2022-03-23,Same Day,Consumer,Central,Dallas,Furniture,Furniture,Bush Advantage Collection Desk,2726.75,5,0.1,214.32,7.86
+CA-2022-01080,2022-03-17,2022-03-23,First Class,Corporate,East,Washington DC,Technology,Technology,Lenovo ThinkPad,7837.44,3,0.1,1157.0,14.76
+CA-2022-01081,2022-03-19,2022-03-25,First Class,Corporate,Central,Minneapolis,Office Supplies,Office Supplies,Fiskars Scissors,2082.0,8,0.1,498.24,23.93
+CA-2022-01082,2022-04-28,2022-04-30,First Class,Consumer,Central,Kansas City,Furniture,Furniture,Harbour Creations Chair,2881.64,4,0.1,169.11,5.87
+CA-2022-01083,2022-04-16,2022-04-17,Standard Class,Corporate,Central,Kansas City,Furniture,Furniture,Sauder Classic Bookcase,1927.71,3,0,168.12,8.72
+CA-2022-01084,2022-04-14,2022-04-21,Same Day,Corporate,East,Washington DC,Technology,Technology,Motorola Smart Phone,1089.78,3,0,215.94,19.82
+CA-2022-01085,2022-04-13,2022-04-16,First Class,Consumer,Central,Minneapolis,Office Supplies,Office Supplies,Rogers File Cabinet,2098.8,8,0,329.89,15.72
+CA-2022-01086,2022-04-25,2022-05-01,First Class,Consumer,South,Houston,Furniture,Furniture,Eldon Fold N Roll Cart,1153.84,2,0,110.21,9.55
+CA-2022-01087,2022-04-05,2022-04-07,Second Class,Consumer,Central,Minneapolis,Technology,Technology,HP LaserJet Pro,11919.15,9,0,2242.95,18.82
+CA-2022-01088,2022-04-16,2022-04-21,Standard Class,Corporate,West,Phoenix,Furniture,Furniture,Global Adaptabilites Bookcase,1020.15,3,0.1,92.87,9.1
+CA-2022-01089,2022-04-06,2022-04-07,Same Day,Home Office,South,New Orleans,Office Supplies,Office Supplies,Rogers File Cabinet,2270.72,8,0,789.14,34.75
+CA-2022-01090,2022-04-13,2022-04-20,First Class,Home Office,Central,Kansas City,Office Supplies,Office Supplies,Avery Binders,291.68,8,0,66.0,22.63
+CA-2022-01091,2022-04-09,2022-04-10,Same Day,Home Office,South,Atlanta,Technology,Technology,HP LaserJet Pro,26154.4,10,0,5174.16,19.78
+CA-2022-01092,2022-04-20,2022-04-27,Second Class,Home Office,South,Atlanta,Office Supplies,Office Supplies,Avery Binders,417.66,6,0,78.53,18.8
+CA-2022-01093,2022-04-02,2022-04-07,Same Day,Corporate,Central,Chicago,Technology,Technology,"Samsung Monitor 27""",13423.38,6,0,1731.8,12.9
+CA-2022-01094,2022-04-17,2022-04-22,First Class,Corporate,West,San Francisco,Office Supplies,Office Supplies,Staple envelope,1249.95,5,0.1,251.73,20.14
+CA-2022-01095,2022-04-25,2022-04-27,Same Day,Consumer,Central,Kansas City,Office Supplies,Office Supplies,Fellowes PB500 Binder,2032.38,7,0,631.9,31.09
+CA-2022-01096,2022-04-22,2022-04-28,Second Class,Consumer,West,Denver,Technology,Technology,Logitech MK710 Keyboard,9080.0,5,0,1836.35,20.22
+CA-2022-01097,2022-04-11,2022-04-16,First Class,Home Office,East,Baltimore,Office Supplies,Office Supplies,Rogers File Cabinet,784.24,4,0.1,217.3,27.71
+CA-2022-01098,2022-04-10,2022-04-14,Same Day,Corporate,Central,Chicago,Technology,Technology,Canon imageCLASS Copier,854.0,2,0,178.25,20.87
+CA-2022-01099,2022-04-14,2022-04-20,First Class,Consumer,East,Baltimore,Furniture,Furniture,Sauder Classic Bookcase,2027.48,2,0,180.96,8.93
+CA-2022-01100,2022-04-04,2022-04-10,Same Day,Consumer,West,Phoenix,Office Supplies,Office Supplies,Staple envelope,993.72,6,0,343.4,34.56
+CA-2022-01101,2022-04-03,2022-04-09,First Class,Consumer,West,Los Angeles,Office Supplies,Office Supplies,Eldon Stackable Letterbox,777.2,4,0,209.4,26.94
+CA-2022-01102,2022-04-03,2022-04-10,Second Class,Corporate,West,San Francisco,Office Supplies,Office Supplies,Avery Binders,594.99,9,0,114.95,19.32
+CA-2022-01103,2022-04-05,2022-04-10,Standard Class,Consumer,Central,Indianapolis,Technology,Technology,Motorola Smart Phone,12128.8,5,0,1588.78,13.1
+CA-2022-01104,2022-04-06,2022-04-09,Standard Class,Home Office,East,Boston,Furniture,Furniture,HON 5400 Series Task Chair,221.97,1,0,16.35,7.37
+CA-2022-01105,2022-04-15,2022-04-20,First Class,Home Office,East,Philadelphia,Furniture,Furniture,Eldon Fold N Roll Cart,4555.48,4,0.3,198.02,4.35
+CA-2022-01106,2022-04-28,2022-05-02,Standard Class,Consumer,East,New York,Technology,Technology,"Samsung Monitor 27""",14737.66,7,0.1,2491.06,16.9
+CA-2022-01107,2022-04-20,2022-04-26,First Class,Home Office,East,Boston,Technology,Technology,Plantronics Savi W720,17128.2,10,0.2,2612.37,15.25
+CA-2022-01108,2022-05-28,2022-06-03,Same Day,Consumer,East,Washington DC,Technology,Technology,Cisco TelePresence System,19839.51,9,0.1,2807.34,14.15
+CA-2022-01109,2022-05-11,2022-05-15,Same Day,Home Office,East,Washington DC,Furniture,Furniture,Eldon Fold N Roll Cart,4949.52,6,0,346.19,6.99
+CA-2022-01110,2022-05-24,2022-05-30,First Class,Home Office,West,Los Angeles,Technology,Technology,Cisco TelePresence System,14781.24,6,0.2,2596.13,17.56
+CA-2022-01111,2022-05-28,2022-06-03,Second Class,Consumer,Central,Kansas City,Technology,Technology,HP LaserJet Pro,2909.94,1,0,523.91,18.0
+CA-2022-01112,2022-05-12,2022-05-19,Same Day,Consumer,West,Phoenix,Technology,Technology,Cisco TelePresence System,10777.95,9,0.2,2115.29,19.63
+CA-2022-01113,2022-05-01,2022-05-06,First Class,Corporate,South,Charlotte,Furniture,Furniture,Bevis Round Conference Table,562.15,5,0,34.78,6.19
+CA-2022-01114,2022-05-03,2022-05-05,Same Day,Corporate,West,San Francisco,Furniture,Furniture,O Sullivan Living Dimensions,182.77,1,0.1,15.07,8.25
+CA-2022-01115,2022-05-25,2022-05-30,Standard Class,Home Office,East,Philadelphia,Technology,Technology,Logitech MK710 Keyboard,3921.3,10,0,491.19,12.53
+CA-2022-01116,2022-05-16,2022-05-21,First Class,Consumer,Central,Minneapolis,Furniture,Furniture,O Sullivan Living Dimensions,4351.12,8,0.2,249.08,5.72
+CA-2022-01117,2022-05-16,2022-05-21,Standard Class,Consumer,East,Philadelphia,Furniture,Furniture,Lesro Sheffield Chair,654.35,5,0.2,46.87,7.16
+CA-2022-01118,2022-05-10,2022-05-13,Same Day,Consumer,West,San Francisco,Office Supplies,Office Supplies,Acco Binder,14.56,2,0,4.36,29.95
+CA-2022-01119,2022-05-03,2022-05-07,Same Day,Corporate,East,Boston,Furniture,Furniture,Harbour Creations Chair,568.57,1,0,43.65,7.68
+CA-2022-01120,2022-05-01,2022-05-04,Standard Class,Corporate,East,Washington DC,Technology,Technology,HP LaserJet Pro,7301.31,3,0.3,1327.47,18.18
+CA-2022-01121,2022-05-13,2022-05-18,First Class,Consumer,East,New York,Technology,Technology,Lenovo ThinkPad,2555.88,2,0,386.01,15.1
+CA-2022-01122,2022-05-17,2022-05-22,Second Class,Home Office,Central,Chicago,Furniture,Furniture,Eldon Fold N Roll Cart,4378.52,4,0.3,297.52,6.79
+CA-2022-01123,2022-05-20,2022-05-22,Same Day,Corporate,West,San Francisco,Technology,Technology,Motorola Smart Phone,1309.74,2,0.1,258.39,19.73
+CA-2022-01124,2022-05-11,2022-05-18,First Class,Home Office,Central,Indianapolis,Furniture,Furniture,Lesro Sheffield Chair,1494.42,6,0.1,67.94,4.55
+CA-2022-01125,2022-05-03,2022-05-06,Standard Class,Consumer,Central,Indianapolis,Technology,Technology,Belkin USB Hub,11503.6,8,0,1445.88,12.57
+CA-2022-01126,2022-05-18,2022-05-25,First Class,Consumer,Central,Indianapolis,Furniture,Furniture,Lesro Sheffield Chair,583.7,1,0.3,61.16,10.48
+CA-2022-01127,2022-05-15,2022-05-16,Standard Class,Consumer,East,Baltimore,Technology,Technology,Canon imageCLASS Copier,17698.8,6,0.3,2273.11,12.84
+CA-2022-01128,2022-05-17,2022-05-22,First Class,Corporate,West,Phoenix,Office Supplies,Office Supplies,Rogers File Cabinet,337.05,3,0.1,112.44,33.36
+CA-2022-01129,2022-05-03,2022-05-06,Second Class,Home Office,Central,Chicago,Office Supplies,Office Supplies,Staple envelope,339.2,2,0,77.1,22.73
+CA-2022-01130,2022-05-10,2022-05-16,Same Day,Corporate,East,Baltimore,Furniture,Furniture,Harbour Creations Chair,1571.01,7,0,151.93,9.67
+CA-2022-01131,2022-05-03,2022-05-09,Second Class,Consumer,Central,Minneapolis,Office Supplies,Office Supplies,Rogers File Cabinet,1085.0,7,0,166.71,15.36
+CA-2022-01132,2022-05-05,2022-05-06,Standard Class,Home Office,East,Washington DC,Technology,Technology,Motorola Smart Phone,12783.1,5,0.2,1663.26,13.01
+CA-2022-01133,2022-06-05,2022-06-07,Same Day,Home Office,East,Baltimore,Technology,Technology,HP LaserJet Pro,7557.99,3,0,1489.75,19.71
+CA-2022-01134,2022-06-15,2022-06-20,Second Class,Home Office,West,Seattle,Furniture,Furniture,Global Adaptabilites Bookcase,4613.4,5,0,473.81,10.27
+CA-2022-01135,2022-06-12,2022-06-18,Same Day,Corporate,West,Phoenix,Office Supplies,Office Supplies,Avery Binders,2954.1,10,0,715.88,24.23
+CA-2022-01136,2022-06-28,2022-07-01,Standard Class,Consumer,South,Miami,Office Supplies,Office Supplies,Fellowes PB500 Binder,194.15,1,0.2,63.06,32.48
+CA-2022-01137,2022-06-05,2022-06-12,Standard Class,Corporate,West,San Francisco,Technology,Technology,Belkin USB Hub,2879.66,7,0.1,607.75,21.1
+CA-2022-01138,2022-06-13,2022-06-14,First Class,Home Office,East,Washington DC,Furniture,Furniture,Global Adaptabilites Bookcase,1988.88,6,0,130.26,6.55
+CA-2022-01139,2022-06-23,2022-06-30,Standard Class,Consumer,Central,Dallas,Technology,Technology,"Samsung Monitor 27""",6938.1,3,0.2,1158.05,16.69
+CA-2022-01140,2022-06-24,2022-06-29,Standard Class,Corporate,West,San Francisco,Office Supplies,Office Supplies,Rogers File Cabinet,1168.74,9,0,356.74,30.52
+CA-2022-01141,2022-06-15,2022-06-16,Second Class,Consumer,West,Phoenix,Furniture,Furniture,Lesro Sheffield Chair,2034.18,2,0.2,162.71,8.0
+CA-2022-01142,2022-06-12,2022-06-14,First Class,Home Office,Central,Minneapolis,Furniture,Furniture,Lesro Sheffield Chair,5465.6,10,0,509.12,9.31
+CA-2022-01143,2022-06-18,2022-06-19,First Class,Corporate,West,Denver,Furniture,Furniture,Bevis Round Conference Table,7406.91,7,0.1,322.07,4.35
+CA-2022-01144,2022-06-08,2022-06-14,Standard Class,Consumer,Central,Minneapolis,Office Supplies,Office Supplies,Staple envelope,465.18,2,0,138.18,29.7
+CA-2022-01145,2022-06-27,2022-07-04,Standard Class,Consumer,East,Philadelphia,Office Supplies,Office Supplies,Fellowes PB500 Binder,2354.72,8,0,578.57,24.57
+CA-2022-01146,2022-06-02,2022-06-09,Same Day,Home Office,Central,Kansas City,Technology,Technology,Apple Smart Phone Full Size,10698.0,4,0,1621.38,15.16
+CA-2022-01147,2022-06-25,2022-07-01,First Class,Home Office,South,Charlotte,Furniture,Furniture,HON 5400 Series Task Chair,1601.76,4,0,174.55,10.9
+CA-2022-01148,2022-06-24,2022-06-28,First Class,Corporate,West,Seattle,Furniture,Furniture,O Sullivan Living Dimensions,3218.04,7,0.3,176.82,5.49
+CA-2022-01149,2022-06-24,2022-06-28,First Class,Home Office,South,Charlotte,Technology,Technology,Cisco TelePresence System,2754.46,2,0,604.63,21.95
+CA-2022-01150,2022-06-10,2022-06-14,Same Day,Corporate,East,New York,Technology,Technology,Plantronics Savi W720,21953.4,10,0.1,3000.25,13.67
+CA-2022-01151,2022-06-09,2022-06-15,Second Class,Home Office,West,Seattle,Furniture,Furniture,O Sullivan Living Dimensions,164.05,1,0,14.93,9.1
+CA-2022-01152,2022-06-02,2022-06-04,Standard Class,Corporate,South,Miami,Office Supplies,Office Supplies,Eldon Stackable Letterbox,149.24,2,0,41.64,27.9
+CA-2022-01153,2022-06-15,2022-06-22,First Class,Corporate,East,Washington DC,Office Supplies,Office Supplies,Staple envelope,348.62,2,0.1,89.21,25.59
+CA-2022-01154,2022-06-16,2022-06-21,Same Day,Home Office,West,Los Angeles,Technology,Technology,Motorola Smart Phone,19275.2,7,0,2540.01,13.18
+CA-2022-01155,2022-06-07,2022-06-08,Standard Class,Corporate,West,Denver,Technology,Technology,"Samsung Monitor 27""",7741.65,3,0.3,1278.95,16.52
+CA-2022-01156,2022-06-18,2022-06-23,Second Class,Home Office,Central,Minneapolis,Furniture,Furniture,Eldon Fold N Roll Cart,5391.45,5,0.3,582.86,10.81
+CA-2022-01157,2022-06-26,2022-06-28,First Class,Home Office,Central,Indianapolis,Technology,Technology,Apple Smart Phone Full Size,9610.24,4,0.2,1178.49,12.26
+CA-2022-01158,2022-06-03,2022-06-06,Same Day,Corporate,East,Baltimore,Technology,Technology,Cisco TelePresence System,20991.95,7,0.2,4028.08,19.19
+CA-2022-01159,2022-06-21,2022-06-22,Second Class,Home Office,Central,Chicago,Technology,Technology,Logitech MK710 Keyboard,11820.96,8,0,2030.08,17.17
+CA-2022-01160,2022-06-27,2022-06-28,Second Class,Home Office,Central,Dallas,Furniture,Furniture,HON 5400 Series Task Chair,2262.42,9,0,120.3,5.32
+CA-2022-01161,2022-07-09,2022-07-11,Standard Class,Home Office,South,Charlotte,Office Supplies,Office Supplies,GBC DocuBind P400,773.64,9,0.2,212.75,27.5
+CA-2022-01162,2022-07-05,2022-07-07,Standard Class,Consumer,East,Boston,Furniture,Furniture,Lesro Sheffield Chair,8871.1,10,0.2,784.3,8.84
+CA-2022-01163,2022-07-25,2022-07-30,First Class,Home Office,West,Denver,Technology,Technology,Apple Smart Phone Full Size,13381.27,7,0.3,1646.28,12.3
+CA-2022-01164,2022-07-10,2022-07-14,Same Day,Corporate,Central,Minneapolis,Furniture,Furniture,O Sullivan Living Dimensions,1702.5,2,0.1,89.63,5.26
+CA-2022-01165,2022-07-24,2022-07-31,Standard Class,Home Office,West,Denver,Technology,Technology,Logitech MK710 Keyboard,17578.92,6,0,2339.34,13.31
+CA-2022-01166,2022-07-08,2022-07-10,Second Class,Corporate,East,Washington DC,Technology,Technology,"Samsung Monitor 27""",588.46,2,0.2,126.25,21.45
+CA-2022-01167,2022-07-24,2022-07-27,Same Day,Corporate,South,Miami,Office Supplies,Office Supplies,Fiskars Scissors,920.48,4,0.2,229.8,24.97
+CA-2022-01168,2022-07-17,2022-07-21,Same Day,Corporate,South,New Orleans,Technology,Technology,HP LaserJet Pro,3052.64,4,0,474.04,15.53
+CA-2022-01169,2022-07-28,2022-07-29,First Class,Corporate,East,Washington DC,Technology,Technology,Canon imageCLASS Copier,3721.97,7,0,545.07,14.64
+CA-2022-01170,2022-07-12,2022-07-17,Standard Class,Corporate,West,Los Angeles,Furniture,Furniture,Global Adaptabilites Bookcase,811.8,5,0.2,65.22,8.03
+CA-2022-01171,2022-07-18,2022-07-21,Standard Class,Consumer,West,Los Angeles,Furniture,Furniture,Harbour Creations Chair,908.82,3,0.2,73.37,8.07
+CA-2022-01172,2022-07-15,2022-07-17,Second Class,Corporate,West,Seattle,Office Supplies,Office Supplies,Rogers File Cabinet,2684.7,10,0.2,477.76,17.8
+CA-2022-01173,2022-07-19,2022-07-22,First Class,Home Office,East,Baltimore,Office Supplies,Office Supplies,Acco Binder,2244.15,9,0.3,575.55,25.65
+CA-2022-01174,2022-07-14,2022-07-19,Standard Class,Home Office,East,New York,Technology,Technology,Cisco TelePresence System,12103.75,5,0.3,2330.36,19.25
+CA-2022-01175,2022-07-19,2022-07-21,Same Day,Home Office,East,Philadelphia,Office Supplies,Office Supplies,Fiskars Scissors,177.14,1,0.3,32.61,18.41
+CA-2022-01176,2022-07-07,2022-07-08,Same Day,Consumer,West,San Francisco,Technology,Technology,Cisco TelePresence System,8352.16,8,0.3,1128.74,13.51
+CA-2022-01177,2022-07-23,2022-07-25,Same Day,Corporate,East,Baltimore,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,595.53,9,0.3,128.04,21.5
+CA-2022-01178,2022-07-11,2022-07-16,First Class,Home Office,West,San Francisco,Furniture,Furniture,Bevis Round Conference Table,5021.82,6,0.3,549.45,10.94
+CA-2022-01179,2022-07-18,2022-07-21,Second Class,Home Office,East,Boston,Office Supplies,Office Supplies,Acco Binder,1130.96,4,0,391.82,34.64
+CA-2022-01180,2022-07-18,2022-07-25,Same Day,Corporate,Central,Kansas City,Technology,Technology,Logitech MK710 Keyboard,4851.0,5,0.2,860.31,17.73
+CA-2022-01181,2022-07-23,2022-07-24,Second Class,Corporate,Central,Dallas,Technology,Technology,Plantronics Savi W720,16700.58,6,0.3,3099.58,18.56
+CA-2022-01182,2022-07-23,2022-07-26,Standard Class,Consumer,West,Denver,Technology,Technology,Belkin USB Hub,1383.9,3,0,268.6,19.41
+CA-2022-01183,2022-07-02,2022-07-03,Standard Class,Consumer,Central,Indianapolis,Technology,Technology,Apple Smart Phone Full Size,7639.38,7,0.3,1277.61,16.72
+CA-2022-01184,2022-08-16,2022-08-22,Standard Class,Home Office,South,Miami,Furniture,Furniture,Chromcraft Bull-Nose Table,3706.48,4,0,233.43,6.3
+CA-2022-01185,2022-08-18,2022-08-24,Same Day,Consumer,South,Houston,Furniture,Furniture,Global Adaptabilites Bookcase,1102.82,1,0,59.56,5.4
+CA-2022-01186,2022-08-02,2022-08-03,Same Day,Corporate,Central,Dallas,Office Supplies,Office Supplies,Acco Binder,862.75,5,0,147.93,17.15
+CA-2022-01187,2022-08-28,2022-09-02,Same Day,Consumer,South,Charlotte,Furniture,Furniture,Sauder Classic Bookcase,3084.64,8,0,322.98,10.47
+CA-2022-01188,2022-08-26,2022-08-29,Same Day,Home Office,Central,Dallas,Technology,Technology,Logitech MK710 Keyboard,20720.4,10,0.2,2886.69,13.93
+CA-2022-01189,2022-08-22,2022-08-23,First Class,Consumer,Central,Indianapolis,Technology,Technology,HP LaserJet Pro,8843.4,3,0,1483.44,16.77
+CA-2022-01190,2022-08-10,2022-08-15,Standard Class,Consumer,East,Washington DC,Office Supplies,Office Supplies,Staple envelope,83.7,10,0.3,23.5,28.08
+CA-2022-01191,2022-08-22,2022-08-27,Second Class,Corporate,Central,Kansas City,Technology,Technology,HP LaserJet Pro,10586.65,5,0,1946.58,18.39
+CA-2022-01192,2022-08-24,2022-08-29,Second Class,Home Office,West,San Francisco,Furniture,Furniture,Chromcraft Bull-Nose Table,3274.5,6,0.1,274.86,8.39
+CA-2022-01193,2022-08-17,2022-08-21,Standard Class,Consumer,Central,Indianapolis,Office Supplies,Office Supplies,GBC DocuBind P400,1913.49,9,0.2,316.91,16.56
+CA-2022-01194,2022-08-05,2022-08-07,Same Day,Consumer,Central,Indianapolis,Technology,Technology,Belkin USB Hub,15511.74,6,0.3,2546.78,16.42
+CA-2022-01195,2022-08-15,2022-08-17,First Class,Corporate,West,Denver,Furniture,Furniture,HON 5400 Series Task Chair,4907.52,9,0.2,417.69,8.51
+CA-2022-01196,2022-08-24,2022-08-26,Standard Class,Consumer,Central,Kansas City,Technology,Technology,Canon imageCLASS Copier,3581.3,10,0.3,581.49,16.24
+CA-2022-01197,2022-08-02,2022-08-05,Same Day,Home Office,South,Houston,Office Supplies,Office Supplies,Eldon Stackable Letterbox,406.63,7,0.3,72.01,17.71
+CA-2022-01198,2022-08-13,2022-08-14,Same Day,Consumer,East,Washington DC,Furniture,Furniture,O Sullivan Living Dimensions,2060.55,9,0,224.24,10.88
+CA-2022-01199,2022-08-10,2022-08-14,Same Day,Consumer,East,Boston,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,1171.08,9,0,264.49,22.59
+CA-2022-01200,2022-08-02,2022-08-09,Second Class,Consumer,East,Philadelphia,Technology,Technology,Cisco TelePresence System,13317.71,7,0,2844.98,21.36
+CA-2022-01201,2022-08-22,2022-08-28,Second Class,Consumer,West,Denver,Technology,Technology,Lenovo ThinkPad,847.49,1,0.1,105.45,12.44
+CA-2022-01202,2022-08-08,2022-08-15,Second Class,Corporate,Central,Chicago,Technology,Technology,Plantronics Savi W720,10588.8,10,0.3,1903.78,17.98
+CA-2022-01203,2022-08-08,2022-08-12,Second Class,Home Office,West,San Francisco,Office Supplies,Office Supplies,Rogers File Cabinet,430.85,5,0.2,112.6,26.13
+CA-2022-01204,2022-08-12,2022-08-18,Second Class,Corporate,Central,Kansas City,Furniture,Furniture,HON 5400 Series Task Chair,6720.7,7,0.1,440.2,6.55
+CA-2022-01205,2022-08-08,2022-08-15,Same Day,Consumer,West,San Francisco,Office Supplies,Office Supplies,Eldon Stackable Letterbox,374.88,4,0.1,109.28,29.15
+CA-2022-01206,2022-08-08,2022-08-11,Standard Class,Corporate,South,Charlotte,Furniture,Furniture,O Sullivan Living Dimensions,1799.56,4,0.1,83.37,4.63
+CA-2022-01207,2022-08-22,2022-08-27,Second Class,Home Office,East,Boston,Technology,Technology,HP LaserJet Pro,2627.1,10,0.2,334.37,12.73
+CA-2022-01208,2022-08-07,2022-08-09,Second Class,Home Office,East,Philadelphia,Technology,Technology,Canon imageCLASS Copier,4557.22,2,0,890.63,19.54
+CA-2022-01209,2022-08-13,2022-08-17,Same Day,Home Office,East,Boston,Furniture,Furniture,Bush Advantage Collection Desk,7259.13,9,0,469.48,6.47
+CA-2022-01210,2022-09-07,2022-09-10,Second Class,Home Office,West,Phoenix,Office Supplies,Office Supplies,Staple envelope,762.66,6,0,200.2,26.25
+CA-2022-01211,2022-09-24,2022-09-28,Second Class,Home Office,West,Denver,Office Supplies,Office Supplies,Fiskars Scissors,249.8,5,0.1,53.95,21.6
+CA-2022-01212,2022-09-24,2022-09-30,Second Class,Consumer,East,Philadelphia,Technology,Technology,"Samsung Monitor 27""",11706.88,8,0,2262.67,19.33
+CA-2022-01213,2022-09-21,2022-09-22,Standard Class,Consumer,Central,Kansas City,Technology,Technology,Belkin USB Hub,2217.6,9,0.3,453.88,20.47
+CA-2022-01214,2022-09-01,2022-09-03,Same Day,Home Office,East,Boston,Technology,Technology,Motorola Smart Phone,13046.67,9,0.3,1644.47,12.6
+CA-2022-01215,2022-09-14,2022-09-15,Same Day,Consumer,Central,Chicago,Technology,Technology,Belkin USB Hub,1658.84,1,0,244.64,14.75
+CA-2022-01216,2022-09-17,2022-09-19,Same Day,Corporate,Central,Dallas,Technology,Technology,Cisco TelePresence System,2788.04,4,0,481.34,17.26
+CA-2022-01217,2022-09-23,2022-09-25,Standard Class,Home Office,West,Phoenix,Furniture,Furniture,Global Adaptabilites Bookcase,4230.65,5,0.3,456.19,10.78
+CA-2022-01218,2022-09-02,2022-09-08,First Class,Home Office,West,Phoenix,Furniture,Furniture,Chromcraft Bull-Nose Table,867.19,1,0.1,40.42,4.66
+CA-2022-01219,2022-09-08,2022-09-10,First Class,Home Office,East,New York,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,1452.7,10,0,231.43,15.93
+CA-2022-01220,2022-09-28,2022-10-01,Standard Class,Corporate,South,Charlotte,Furniture,Furniture,Sauder Classic Bookcase,1156.85,1,0.3,100.6,8.7
+CA-2022-01221,2022-09-22,2022-09-27,Standard Class,Home Office,West,Denver,Technology,Technology,HP LaserJet Pro,7463.76,6,0.3,1447.78,19.4
+CA-2022-01222,2022-09-08,2022-09-15,First Class,Corporate,East,Philadelphia,Technology,Technology,HP LaserJet Pro,2241.38,2,0.2,441.33,19.69
+CA-2022-01223,2022-09-16,2022-09-18,Same Day,Home Office,West,Seattle,Office Supplies,Office Supplies,Eldon Stackable Letterbox,1008.9,6,0,227.09,22.51
+CA-2022-01224,2022-09-23,2022-09-24,Same Day,Consumer,West,Denver,Technology,Technology,Apple Smart Phone Full Size,1827.44,2,0.3,288.74,15.8
+CA-2022-01225,2022-09-15,2022-09-18,Same Day,Corporate,East,New York,Technology,Technology,Plantronics Savi W720,2206.8,5,0.1,284.08,12.87
+CA-2022-01226,2022-09-20,2022-09-25,Standard Class,Corporate,West,Los Angeles,Technology,Technology,Cisco TelePresence System,15669.6,6,0.1,1899.69,12.12
+CA-2022-01227,2022-09-19,2022-09-24,First Class,Corporate,Central,Indianapolis,Office Supplies,Office Supplies,Avery Binders,621.51,3,0,114.3,18.39
+CA-2022-01228,2022-09-14,2022-09-17,Same Day,Home Office,East,New York,Technology,Technology,Plantronics Savi W720,19044.8,8,0,2973.13,15.61
+CA-2022-01229,2022-09-10,2022-09-11,First Class,Corporate,East,Boston,Furniture,Furniture,Sauder Classic Bookcase,3164.56,7,0,283.59,8.96
+CA-2022-01230,2022-09-20,2022-09-26,First Class,Corporate,East,Baltimore,Technology,Technology,Logitech MK710 Keyboard,6060.72,4,0.1,834.95,13.78
+CA-2022-01231,2022-09-11,2022-09-15,Second Class,Home Office,Central,Kansas City,Office Supplies,Office Supplies,Avery Binders,1229.35,5,0,281.01,22.86
+CA-2022-01232,2022-09-01,2022-09-07,Standard Class,Home Office,East,Baltimore,Technology,Technology,Belkin USB Hub,22699.84,8,0,3199.88,14.1
+CA-2022-01233,2022-09-21,2022-09-24,Standard Class,Corporate,Central,Kansas City,Furniture,Furniture,Sauder Classic Bookcase,1452.0,4,0.1,75.99,5.23
+CA-2022-01234,2022-09-18,2022-09-23,Standard Class,Home Office,East,Baltimore,Furniture,Furniture,O Sullivan Living Dimensions,4822.16,7,0,497.93,10.33
+CA-2022-01235,2022-09-06,2022-09-12,Same Day,Home Office,West,San Francisco,Furniture,Furniture,Harbour Creations Chair,1296.1,10,0.3,153.83,11.87
+CA-2022-01236,2022-09-04,2022-09-05,Second Class,Home Office,South,Atlanta,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,162.66,2,0.2,41.01,25.21
+CA-2022-01237,2022-09-23,2022-09-28,Same Day,Corporate,East,Washington DC,Furniture,Furniture,Lesro Sheffield Chair,1399.08,3,0,58.71,4.2
+CA-2022-01238,2022-10-15,2022-10-22,Same Day,Corporate,West,San Francisco,Technology,Technology,Logitech MK710 Keyboard,6540.72,4,0,1012.7,15.48
+CA-2022-01239,2022-10-01,2022-10-08,Second Class,Home Office,East,Philadelphia,Technology,Technology,Cisco TelePresence System,11980.26,6,0,2248.86,18.77
+CA-2022-01240,2022-10-14,2022-10-18,Same Day,Home Office,East,Baltimore,Technology,Technology,Belkin USB Hub,9694.4,4,0,1773.84,18.3
+CA-2022-01241,2022-10-19,2022-10-23,Standard Class,Home Office,East,Baltimore,Office Supplies,Office Supplies,Eldon Stackable Letterbox,44.17,7,0,8.52,19.29
+CA-2022-01242,2022-10-07,2022-10-11,First Class,Home Office,East,Baltimore,Technology,Technology,Logitech MK710 Keyboard,1795.42,2,0.2,370.33,20.63
+CA-2022-01243,2022-10-12,2022-10-15,Standard Class,Corporate,East,Baltimore,Furniture,Furniture,Eldon Fold N Roll Cart,6171.6,8,0.3,648.63,10.51
+CA-2022-01244,2022-10-04,2022-10-06,Second Class,Home Office,Central,Minneapolis,Technology,Technology,Plantronics Savi W720,12757.74,6,0.1,2182.63,17.11
+CA-2022-01245,2022-10-23,2022-10-29,First Class,Consumer,East,Washington DC,Technology,Technology,Belkin USB Hub,5194.5,3,0,877.68,16.9
+CA-2022-01246,2022-10-01,2022-10-05,Same Day,Home Office,South,Charlotte,Technology,Technology,Logitech MK710 Keyboard,2118.36,3,0.2,335.54,15.84
+CA-2022-01247,2022-10-16,2022-10-18,Standard Class,Corporate,East,Washington DC,Furniture,Furniture,Chromcraft Bull-Nose Table,1426.5,2,0,147.89,10.37
+CA-2022-01248,2022-10-19,2022-10-25,First Class,Corporate,West,Denver,Technology,Technology,"Samsung Monitor 27""",13733.76,8,0,1803.53,13.13
+CA-2022-01249,2022-10-18,2022-10-20,Standard Class,Corporate,East,New York,Office Supplies,Office Supplies,Eldon Stackable Letterbox,246.47,7,0,77.89,31.6
+CA-2022-01250,2022-10-15,2022-10-22,First Class,Home Office,East,Philadelphia,Office Supplies,Office Supplies,GBC DocuBind P400,467.62,2,0.3,92.3,19.74
+CA-2022-01251,2022-10-20,2022-10-22,First Class,Corporate,South,Charlotte,Furniture,Furniture,Sauder Classic Bookcase,3964.6,4,0.2,414.04,10.44
+CA-2022-01252,2022-10-10,2022-10-15,Second Class,Consumer,East,Boston,Technology,Technology,Plantronics Savi W720,14321.65,5,0.3,2455.33,17.14
+CA-2022-01253,2022-10-28,2022-11-03,First Class,Home Office,South,New Orleans,Office Supplies,Office Supplies,Acco Binder,635.76,3,0,112.24,17.65
+CA-2022-01254,2022-10-21,2022-10-24,First Class,Corporate,Central,Kansas City,Furniture,Furniture,Lesro Sheffield Chair,3501.33,7,0,161.21,4.6
+CA-2022-01255,2022-10-11,2022-10-16,Same Day,Home Office,Central,Minneapolis,Furniture,Furniture,Chromcraft Bull-Nose Table,1053.18,1,0,113.5,10.78
+CA-2022-01256,2022-10-13,2022-10-15,First Class,Corporate,Central,Minneapolis,Office Supplies,Office Supplies,Rogers File Cabinet,1738.31,7,0,432.74,24.89
+CA-2022-01257,2022-10-26,2022-10-29,Standard Class,Consumer,East,Boston,Furniture,Furniture,Chromcraft Bull-Nose Table,131.46,1,0.1,11.84,9.01
+CA-2022-01258,2022-10-14,2022-10-16,First Class,Consumer,South,Miami,Furniture,Furniture,HON 5400 Series Task Chair,3204.03,3,0,205.54,6.42
+CA-2022-01259,2022-10-02,2022-10-06,Standard Class,Home Office,West,Seattle,Furniture,Furniture,Sauder Classic Bookcase,4465.55,5,0.1,448.42,10.04
+CA-2022-01260,2022-11-08,2022-11-13,Second Class,Corporate,West,Phoenix,Technology,Technology,Lenovo ThinkPad,1411.76,8,0,267.61,18.96
+CA-2022-01261,2022-11-04,2022-11-07,Second Class,Home Office,East,Boston,Furniture,Furniture,Eldon Fold N Roll Cart,6400.26,6,0,326.22,5.1
+CA-2022-01262,2022-11-15,2022-11-18,Same Day,Home Office,West,Denver,Technology,Technology,Motorola Smart Phone,7760.12,4,0.1,1048.68,13.51
+CA-2022-01263,2022-11-25,2022-11-26,Second Class,Corporate,South,Houston,Office Supplies,Office Supplies,Fellowes PB500 Binder,2203.5,10,0.1,485.45,22.03
+CA-2022-01264,2022-11-20,2022-11-26,First Class,Home Office,West,Los Angeles,Technology,Technology,Lenovo ThinkPad,9620.2,10,0,2059.95,21.41
+CA-2022-01265,2022-11-10,2022-11-16,Same Day,Corporate,West,Denver,Furniture,Furniture,O Sullivan Living Dimensions,957.86,1,0,99.14,10.35
+CA-2022-01266,2022-11-17,2022-11-18,First Class,Corporate,West,Phoenix,Furniture,Furniture,Eldon Fold N Roll Cart,6756.0,6,0.2,341.57,5.06
+CA-2022-01267,2022-11-01,2022-11-06,First Class,Corporate,East,Boston,Office Supplies,Office Supplies,GBC DocuBind P400,18.14,2,0,3.5,19.29
+CA-2022-01268,2022-11-23,2022-11-27,Standard Class,Corporate,Central,Indianapolis,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,387.92,2,0,99.9,25.75
+CA-2022-01269,2022-11-18,2022-11-21,Standard Class,Home Office,West,Denver,Office Supplies,Office Supplies,Fellowes PB500 Binder,1246.0,7,0.3,377.1,30.26
+CA-2022-01270,2022-11-02,2022-11-04,Standard Class,Home Office,West,Phoenix,Office Supplies,Office Supplies,Avery Binders,555.54,2,0.2,96.22,17.32
+CA-2022-01271,2022-11-23,2022-11-24,First Class,Home Office,West,San Francisco,Technology,Technology,Motorola Smart Phone,4694.34,3,0.2,726.08,15.47
+CA-2022-01272,2022-11-24,2022-11-25,First Class,Consumer,West,San Francisco,Office Supplies,Office Supplies,Acco Binder,103.83,1,0.2,24.49,23.59
+CA-2022-01273,2022-11-15,2022-11-20,Second Class,Corporate,Central,Indianapolis,Furniture,Furniture,Chromcraft Bull-Nose Table,852.54,6,0,92.71,10.87
+CA-2022-01274,2022-11-08,2022-11-14,Standard Class,Consumer,West,Los Angeles,Office Supplies,Office Supplies,GBC DocuBind P400,51.84,9,0,16.68,32.18
+CA-2022-01275,2022-11-28,2022-11-29,Second Class,Corporate,East,Washington DC,Office Supplies,Office Supplies,Fellowes PB500 Binder,2177.28,9,0.3,637.52,29.28
+CA-2022-01276,2022-11-09,2022-11-16,Second Class,Consumer,East,Washington DC,Office Supplies,Office Supplies,Staple envelope,347.2,2,0.3,60.37,17.39
+CA-2022-01277,2022-11-03,2022-11-07,Same Day,Home Office,West,Denver,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,1165.95,5,0,247.34,21.21
+CA-2022-01278,2022-11-24,2022-11-29,Second Class,Consumer,West,San Francisco,Technology,Technology,Plantronics Savi W720,5888.76,4,0.1,1055.08,17.92
+CA-2022-01279,2022-11-12,2022-11-18,First Class,Corporate,West,Phoenix,Technology,Technology,Belkin USB Hub,2860.32,1,0.3,343.66,12.01
+CA-2022-01280,2022-11-16,2022-11-17,Same Day,Home Office,West,Denver,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,644.82,3,0,108.72,16.86
+CA-2022-01281,2022-11-19,2022-11-20,Standard Class,Home Office,Central,Minneapolis,Furniture,Furniture,Eldon Fold N Roll Cart,2065.86,9,0,218.15,10.56
+CA-2022-01282,2022-11-28,2022-12-01,First Class,Corporate,East,Boston,Technology,Technology,Plantronics Savi W720,15029.49,7,0,2908.74,19.35
+CA-2022-01283,2022-11-04,2022-11-06,First Class,Consumer,West,San Francisco,Technology,Technology,Lenovo ThinkPad,1236.94,2,0.1,206.08,16.66
+CA-2022-01284,2022-11-09,2022-11-16,Standard Class,Home Office,South,Miami,Furniture,Furniture,Chromcraft Bull-Nose Table,362.54,2,0,37.92,10.46
+CA-2022-01285,2022-12-12,2022-12-16,Same Day,Consumer,South,Atlanta,Technology,Technology,Apple Smart Phone Full Size,2605.59,9,0,390.54,14.99
+CA-2022-01286,2022-12-04,2022-12-08,Second Class,Consumer,South,Charlotte,Office Supplies,Office Supplies,Avery Binders,484.3,2,0,86.19,17.8
+CA-2022-01287,2022-12-19,2022-12-24,Same Day,Consumer,West,Phoenix,Furniture,Furniture,Eldon Fold N Roll Cart,5537.6,5,0,254.72,4.6
+CA-2022-01288,2022-12-04,2022-12-05,Same Day,Home Office,Central,Chicago,Office Supplies,Office Supplies,Staple envelope,159.52,8,0.1,53.41,33.48
+CA-2022-01289,2022-12-12,2022-12-14,Second Class,Consumer,East,Washington DC,Office Supplies,Office Supplies,Fellowes PB500 Binder,258.36,3,0,61.8,23.92
+CA-2022-01290,2022-12-16,2022-12-17,Second Class,Home Office,Central,Kansas City,Furniture,Furniture,Bevis Round Conference Table,786.7,2,0,40.11,5.1
+CA-2022-01291,2022-12-26,2023-01-01,First Class,Home Office,Central,Indianapolis,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,879.06,6,0,269.24,30.63
+CA-2022-01292,2022-12-08,2022-12-09,Second Class,Corporate,East,Boston,Technology,Technology,Lenovo ThinkPad,1584.95,5,0.2,347.35,21.92
+CA-2022-01293,2022-12-09,2022-12-14,First Class,Corporate,South,Houston,Technology,Technology,Apple Smart Phone Full Size,2327.54,1,0.2,499.91,21.48
+CA-2022-01294,2022-12-11,2022-12-18,Second Class,Corporate,South,Miami,Technology,Technology,Lenovo ThinkPad,16529.04,6,0.3,2030.11,12.28
+CA-2022-01295,2022-12-18,2022-12-21,Second Class,Home Office,East,Boston,Office Supplies,Office Supplies,Eldon Stackable Letterbox,449.04,3,0,75.46,16.8
+CA-2022-01296,2022-12-07,2022-12-14,Standard Class,Consumer,West,Phoenix,Technology,Technology,Lenovo ThinkPad,3363.48,3,0,463.31,13.77
+CA-2022-01297,2022-12-28,2022-12-31,Standard Class,Home Office,West,San Francisco,Office Supplies,Office Supplies,Rogers File Cabinet,230.42,2,0.1,77.97,33.84
+CA-2022-01298,2022-12-24,2022-12-28,First Class,Home Office,East,Philadelphia,Technology,Technology,Motorola Smart Phone,16001.28,8,0.2,2198.9,13.74
+CA-2022-01299,2022-12-10,2022-12-16,Same Day,Home Office,West,Denver,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,212.85,5,0.3,62.95,29.57
+CA-2022-01300,2022-12-11,2022-12-18,First Class,Consumer,South,Charlotte,Technology,Technology,Lenovo ThinkPad,7795.5,10,0.1,1376.33,17.66
+CA-2022-01301,2022-12-06,2022-12-12,Same Day,Corporate,Central,Dallas,Technology,Technology,Logitech MK710 Keyboard,4983.48,2,0.3,931.92,18.7
+CA-2022-01302,2022-12-12,2022-12-15,Same Day,Home Office,West,San Francisco,Technology,Technology,Cisco TelePresence System,4406.36,2,0.1,549.98,12.48
+CA-2022-01303,2022-12-12,2022-12-17,Second Class,Home Office,South,New Orleans,Furniture,Furniture,O Sullivan Living Dimensions,1355.2,7,0.2,106.19,7.84
+CA-2022-01304,2022-12-10,2022-12-11,Same Day,Consumer,West,Los Angeles,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,492.18,6,0,84.14,17.1
+CA-2022-01305,2022-12-11,2022-12-16,Second Class,Home Office,West,Los Angeles,Furniture,Furniture,Eldon Fold N Roll Cart,10804.1,10,0.1,1041.09,9.64
+CA-2022-01306,2022-12-11,2022-12-13,First Class,Home Office,East,Washington DC,Technology,Technology,Cisco TelePresence System,5265.8,4,0.3,923.68,17.54
+CA-2022-01307,2022-12-13,2022-12-18,Same Day,Consumer,Central,Minneapolis,Technology,Technology,Canon imageCLASS Copier,22892.31,9,0,3098.68,13.54
+CA-2022-01308,2022-12-01,2022-12-03,First Class,Consumer,West,Denver,Furniture,Furniture,Eldon Fold N Roll Cart,2384.31,3,0.1,281.74,11.82
+CA-2022-01309,2022-12-03,2022-12-09,Second Class,Corporate,Central,Kansas City,Furniture,Furniture,Bush Advantage Collection Desk,4626.27,9,0.1,322.37,6.97
+CA-2022-01310,2022-12-08,2022-12-15,Standard Class,Home Office,East,Philadelphia,Furniture,Furniture,Bush Advantage Collection Desk,3559.8,5,0.3,185.43,5.21
+CA-2022-01311,2022-12-25,2022-12-30,Same Day,Corporate,West,Seattle,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,673.24,4,0.2,214.2,31.82
+CA-2022-01312,2022-12-13,2022-12-20,Second Class,Home Office,East,Boston,Furniture,Furniture,Eldon Fold N Roll Cart,642.35,1,0.2,71.97,11.2
+CA-2023-01313,2023-01-07,2023-01-14,Second Class,Corporate,South,New Orleans,Technology,Technology,Motorola Smart Phone,2038.52,4,0.3,330.93,16.23
+CA-2023-01314,2023-01-11,2023-01-17,First Class,Corporate,South,Miami,Office Supplies,Office Supplies,Acco Binder,61.34,2,0.2,16.03,26.13
+CA-2023-01315,2023-01-19,2023-01-24,Standard Class,Home Office,East,New York,Office Supplies,Office Supplies,Fiskars Scissors,267.33,7,0.2,48.1,17.99
+CA-2023-01316,2023-01-28,2023-02-02,Same Day,Corporate,South,Charlotte,Office Supplies,Office Supplies,Acco Binder,1583.88,6,0.3,321.25,20.28
+CA-2023-01317,2023-01-20,2023-01-26,Second Class,Home Office,West,Seattle,Furniture,Furniture,Lesro Sheffield Chair,864.08,7,0,96.06,11.12
+CA-2023-01318,2023-01-01,2023-01-04,Standard Class,Home Office,West,Phoenix,Office Supplies,Office Supplies,Staple envelope,483.65,5,0.3,154.08,31.86
+CA-2023-01319,2023-01-25,2023-02-01,Second Class,Consumer,South,Miami,Technology,Technology,"Samsung Monitor 27""",5507.1,6,0.3,890.37,16.17
+CA-2023-01320,2023-01-28,2023-01-31,Same Day,Home Office,East,Washington DC,Office Supplies,Office Supplies,Rogers File Cabinet,157.0,1,0,28.54,18.18
+CA-2023-01321,2023-01-06,2023-01-08,First Class,Consumer,West,Denver,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,1007.64,4,0.1,201.43,19.99
+CA-2023-01322,2023-01-17,2023-01-21,Same Day,Home Office,Central,Minneapolis,Technology,Technology,"Samsung Monitor 27""",4182.7,2,0.1,603.12,14.42
+CA-2023-01323,2023-01-12,2023-01-14,Same Day,Consumer,West,Phoenix,Furniture,Furniture,Harbour Creations Chair,4594.2,5,0,436.95,9.51
+CA-2023-01324,2023-01-28,2023-01-30,Standard Class,Home Office,West,Denver,Office Supplies,Office Supplies,Avery Binders,819.68,4,0.1,167.06,20.38
+CA-2023-01325,2023-01-21,2023-01-23,First Class,Corporate,South,Houston,Furniture,Furniture,Sauder Classic Bookcase,9769.7,10,0.2,565.68,5.79
+CA-2023-01326,2023-01-09,2023-01-11,Standard Class,Corporate,East,Washington DC,Office Supplies,Office Supplies,Eldon Stackable Letterbox,753.04,8,0.2,191.37,25.41
+CA-2023-01327,2023-01-20,2023-01-23,First Class,Corporate,West,Seattle,Furniture,Furniture,Lesro Sheffield Chair,4232.7,5,0,332.43,7.85
+CA-2023-01328,2023-01-07,2023-01-09,First Class,Corporate,South,Atlanta,Furniture,Furniture,Bush Advantage Collection Desk,8435.97,9,0.2,944.62,11.2
+CA-2023-01329,2023-01-09,2023-01-13,Second Class,Home Office,Central,Chicago,Furniture,Furniture,Bush Advantage Collection Desk,3604.09,7,0.3,154.35,4.28
+CA-2023-01330,2023-01-22,2023-01-25,Second Class,Home Office,East,Boston,Office Supplies,Office Supplies,Eldon Stackable Letterbox,842.04,9,0.3,154.93,18.4
+CA-2023-01331,2023-01-24,2023-01-31,Standard Class,Corporate,West,Phoenix,Technology,Technology,Plantronics Savi W720,20918.88,9,0.3,2893.22,13.83
+CA-2023-01332,2023-01-14,2023-01-21,Same Day,Consumer,West,San Francisco,Office Supplies,Office Supplies,Acco Binder,687.9,6,0.1,183.75,26.71
+CA-2023-01333,2023-01-03,2023-01-07,First Class,Home Office,West,Denver,Furniture,Furniture,Lesro Sheffield Chair,2562.12,4,0.1,280.3,10.94
+CA-2023-01334,2023-02-11,2023-02-15,Second Class,Corporate,West,San Francisco,Technology,Technology,Apple Smart Phone Full Size,26946.1,10,0,5892.17,21.87
+CA-2023-01335,2023-02-11,2023-02-17,Second Class,Home Office,Central,Kansas City,Technology,Technology,Motorola Smart Phone,163.43,1,0,24.08,14.73
+CA-2023-01336,2023-02-21,2023-02-25,Second Class,Consumer,East,New York,Technology,Technology,HP LaserJet Pro,9609.04,7,0,1611.82,16.77
+CA-2023-01337,2023-02-07,2023-02-08,First Class,Corporate,Central,Chicago,Office Supplies,Office Supplies,Rogers File Cabinet,189.87,1,0.3,37.93,19.98
+CA-2023-01338,2023-02-06,2023-02-07,First Class,Home Office,West,Phoenix,Furniture,Furniture,Bush Advantage Collection Desk,413.99,1,0.3,26.19,6.33
+CA-2023-01339,2023-02-12,2023-02-19,Second Class,Consumer,East,Boston,Technology,Technology,"Samsung Monitor 27""",2479.68,4,0.1,522.44,21.07
+CA-2023-01340,2023-02-19,2023-02-24,First Class,Corporate,West,San Francisco,Technology,Technology,Canon imageCLASS Copier,1503.03,3,0,287.25,19.11
+CA-2023-01341,2023-02-22,2023-02-23,Standard Class,Corporate,Central,Indianapolis,Technology,Technology,Canon imageCLASS Copier,287.47,1,0.1,37.83,13.16
+CA-2023-01342,2023-02-23,2023-03-01,First Class,Home Office,East,Washington DC,Office Supplies,Office Supplies,Avery Binders,93.83,1,0.3,26.49,28.23
+CA-2023-01343,2023-02-17,2023-02-23,Second Class,Corporate,Central,Dallas,Furniture,Furniture,Eldon Fold N Roll Cart,2118.6,10,0,104.07,4.91
+CA-2023-01344,2023-02-12,2023-02-18,Same Day,Consumer,East,Philadelphia,Office Supplies,Office Supplies,Avery Binders,644.91,7,0.1,101.82,15.79
+CA-2023-01345,2023-02-04,2023-02-11,Standard Class,Home Office,East,New York,Technology,Technology,Cisco TelePresence System,20567.1,10,0,2774.8,13.49
+CA-2023-01346,2023-02-15,2023-02-18,First Class,Consumer,Central,Chicago,Office Supplies,Office Supplies,Avery Binders,709.8,5,0,120.64,17.0
+CA-2023-01347,2023-02-04,2023-02-11,First Class,Consumer,East,Philadelphia,Furniture,Furniture,Eldon Fold N Roll Cart,90.83,1,0.3,4.64,5.11
+CA-2023-01348,2023-02-24,2023-02-25,Same Day,Corporate,East,Washington DC,Office Supplies,Office Supplies,Acco Binder,1472.46,6,0.1,274.72,18.66
+CA-2023-01349,2023-02-26,2023-03-02,Standard Class,Consumer,West,Phoenix,Office Supplies,Office Supplies,Eldon Stackable Letterbox,115.05,3,0,33.28,28.93
+CA-2023-01350,2023-02-22,2023-02-26,Second Class,Consumer,East,Baltimore,Furniture,Furniture,Lesro Sheffield Chair,2294.04,3,0.2,234.76,10.23
+CA-2023-01351,2023-02-15,2023-02-16,Second Class,Home Office,East,Washington DC,Technology,Technology,HP LaserJet Pro,1791.2,2,0.3,271.23,15.14
+CA-2023-01352,2023-02-04,2023-02-08,Second Class,Corporate,South,Atlanta,Furniture,Furniture,Lesro Sheffield Chair,2479.04,4,0.3,230.79,9.31
+CA-2023-01353,2023-02-02,2023-02-03,Standard Class,Consumer,South,Charlotte,Office Supplies,Office Supplies,Fiskars Scissors,462.42,3,0.1,112.76,24.38
+CA-2023-01354,2023-02-02,2023-02-07,Same Day,Consumer,Central,Minneapolis,Technology,Technology,Plantronics Savi W720,6875.64,4,0,1085.41,15.79
+CA-2023-01355,2023-02-15,2023-02-18,Same Day,Consumer,East,Baltimore,Furniture,Furniture,Chromcraft Bull-Nose Table,2356.7,2,0,234.77,9.96
+CA-2023-01356,2023-02-26,2023-03-03,Same Day,Consumer,East,Baltimore,Furniture,Furniture,Eldon Fold N Roll Cart,7940.4,10,0.2,883.04,11.12
+CA-2023-01357,2023-02-28,2023-03-04,First Class,Home Office,South,Atlanta,Office Supplies,Office Supplies,Avery Binders,1021.44,6,0.1,279.83,27.4
+CA-2023-01358,2023-02-01,2023-02-04,First Class,Home Office,Central,Chicago,Technology,Technology,Apple Smart Phone Full Size,15091.02,6,0,3266.35,21.64
+CA-2023-01359,2023-02-05,2023-02-12,Same Day,Consumer,Central,Chicago,Office Supplies,Office Supplies,Eldon Stackable Letterbox,255.85,7,0,69.63,27.22
+CA-2023-01360,2023-03-25,2023-03-29,Same Day,Consumer,East,Boston,Office Supplies,Office Supplies,GBC DocuBind P400,278.35,1,0.2,88.37,31.75
+CA-2023-01361,2023-03-16,2023-03-17,Same Day,Home Office,East,Baltimore,Office Supplies,Office Supplies,Fellowes PB500 Binder,1999.62,9,0.1,521.19,26.06
+CA-2023-01362,2023-03-24,2023-03-31,Same Day,Corporate,South,Miami,Office Supplies,Office Supplies,Fellowes PB500 Binder,106.65,3,0.2,30.02,28.15
+CA-2023-01363,2023-03-09,2023-03-13,Same Day,Consumer,East,Baltimore,Office Supplies,Office Supplies,Avery Binders,1747.8,6,0,420.47,24.06
+CA-2023-01364,2023-03-28,2023-03-31,First Class,Home Office,East,Baltimore,Technology,Technology,Belkin USB Hub,17575.74,9,0.2,2462.17,14.01
+CA-2023-01365,2023-03-17,2023-03-22,Same Day,Corporate,Central,Dallas,Office Supplies,Office Supplies,Fellowes PB500 Binder,1287.3,6,0.2,388.96,30.22
+CA-2023-01366,2023-03-26,2023-03-27,Standard Class,Home Office,Central,Indianapolis,Technology,Technology,HP LaserJet Pro,4080.96,9,0,645.15,15.81
+CA-2023-01367,2023-03-05,2023-03-12,First Class,Consumer,West,San Francisco,Office Supplies,Office Supplies,Acco Binder,208.73,1,0.2,43.63,20.9
+CA-2023-01368,2023-03-28,2023-03-30,Standard Class,Corporate,Central,Chicago,Furniture,Furniture,Bevis Round Conference Table,4639.95,9,0.3,375.25,8.09
+CA-2023-01369,2023-03-18,2023-03-19,First Class,Consumer,South,New Orleans,Furniture,Furniture,Harbour Creations Chair,912.91,1,0.1,51.35,5.62
+CA-2023-01370,2023-03-25,2023-03-31,Second Class,Consumer,Central,Indianapolis,Office Supplies,Office Supplies,Avery Binders,367.12,4,0.3,68.1,18.55
+CA-2023-01371,2023-03-14,2023-03-17,First Class,Consumer,South,Charlotte,Technology,Technology,Canon imageCLASS Copier,8127.72,9,0,1106.12,13.61
+CA-2023-01372,2023-03-20,2023-03-21,First Class,Home Office,East,Boston,Technology,Technology,Logitech MK710 Keyboard,25529.5,10,0.2,3832.37,15.01
+CA-2023-01373,2023-03-17,2023-03-18,First Class,Consumer,West,Seattle,Furniture,Furniture,Sauder Classic Bookcase,2326.41,9,0.1,194.13,8.34
+CA-2023-01374,2023-03-12,2023-03-15,Standard Class,Home Office,West,San Francisco,Furniture,Furniture,Harbour Creations Chair,4577.4,4,0.1,409.51,8.95
+CA-2023-01375,2023-03-20,2023-03-22,First Class,Corporate,West,Seattle,Furniture,Furniture,Lesro Sheffield Chair,844.46,1,0,55.46,6.57
+CA-2023-01376,2023-03-27,2023-04-03,First Class,Consumer,East,Philadelphia,Technology,Technology,Belkin USB Hub,9694.68,6,0.1,1656.56,17.09
+CA-2023-01377,2023-03-04,2023-03-06,Second Class,Home Office,South,Miami,Technology,Technology,Cisco TelePresence System,15026.76,9,0,2745.29,18.27
+CA-2023-01378,2023-03-18,2023-03-25,Second Class,Home Office,South,New Orleans,Office Supplies,Office Supplies,Avery Binders,1370.18,7,0.3,463.05,33.79
+CA-2023-01379,2023-03-02,2023-03-04,Same Day,Corporate,West,Seattle,Technology,Technology,Cisco TelePresence System,8702.7,5,0,1544.7,17.75
+CA-2023-01380,2023-03-13,2023-03-19,Standard Class,Consumer,East,Washington DC,Furniture,Furniture,HON 5400 Series Task Chair,1358.02,2,0.2,124.01,9.13
+CA-2023-01381,2023-03-04,2023-03-07,Same Day,Corporate,Central,Chicago,Technology,Technology,Belkin USB Hub,9393.55,5,0.1,1391.67,14.82
+CA-2023-01382,2023-03-08,2023-03-10,Second Class,Home Office,Central,Chicago,Furniture,Furniture,Bevis Round Conference Table,6806.66,7,0,734.83,10.8
+CA-2023-01383,2023-04-18,2023-04-25,Same Day,Home Office,Central,Minneapolis,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,420.39,9,0.2,66.57,15.84
+CA-2023-01384,2023-04-07,2023-04-11,Second Class,Corporate,East,New York,Technology,Technology,Logitech MK710 Keyboard,5004.0,9,0.2,692.55,13.84
+CA-2023-01385,2023-04-15,2023-04-21,Second Class,Consumer,West,Denver,Office Supplies,Office Supplies,Rogers File Cabinet,239.22,9,0,68.02,28.43
+CA-2023-01386,2023-04-05,2023-04-11,Same Day,Corporate,Central,Kansas City,Office Supplies,Office Supplies,Staple envelope,138.04,4,0,37.81,27.39
+CA-2023-01387,2023-04-05,2023-04-10,Standard Class,Consumer,East,Baltimore,Furniture,Furniture,Lesro Sheffield Chair,4882.3,10,0.1,318.85,6.53
+CA-2023-01388,2023-04-09,2023-04-16,Same Day,Corporate,West,San Francisco,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,267.72,6,0.1,79.4,29.66
+CA-2023-01389,2023-04-06,2023-04-12,Second Class,Home Office,East,Philadelphia,Furniture,Furniture,Eldon Fold N Roll Cart,1718.1,10,0,107.29,6.24
+CA-2023-01390,2023-04-28,2023-05-03,Standard Class,Consumer,West,Los Angeles,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,244.73,1,0.2,65.04,26.58
+CA-2023-01391,2023-04-16,2023-04-22,First Class,Home Office,East,Baltimore,Office Supplies,Office Supplies,Rogers File Cabinet,338.76,3,0.2,65.94,19.47
+CA-2023-01392,2023-04-12,2023-04-17,Second Class,Home Office,West,Denver,Furniture,Furniture,O Sullivan Living Dimensions,822.2,1,0.2,88.66,10.78
+CA-2023-01393,2023-04-19,2023-04-24,Second Class,Consumer,Central,Dallas,Furniture,Furniture,Sauder Classic Bookcase,2712.69,3,0,213.44,7.87
+CA-2023-01394,2023-04-08,2023-04-09,Same Day,Corporate,Central,Dallas,Technology,Technology,Logitech MK710 Keyboard,6503.88,4,0.1,1295.22,19.91
+CA-2023-01395,2023-04-04,2023-04-10,Second Class,Corporate,South,Houston,Office Supplies,Office Supplies,Staple envelope,1727.1,9,0.3,353.54,20.47
+CA-2023-01396,2023-04-17,2023-04-20,First Class,Corporate,East,Washington DC,Technology,Technology,Cisco TelePresence System,20454.84,7,0.1,2910.52,14.23
+CA-2023-01397,2023-04-17,2023-04-19,Second Class,Corporate,East,Washington DC,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,430.8,8,0.3,71.26,16.54
+CA-2023-01398,2023-04-22,2023-04-24,Same Day,Home Office,West,San Francisco,Technology,Technology,Cisco TelePresence System,17232.88,7,0.1,3309.15,19.2
+CA-2023-01399,2023-04-01,2023-04-03,Standard Class,Home Office,East,Baltimore,Technology,Technology,HP LaserJet Pro,514.47,1,0,92.21,17.92
+CA-2023-01400,2023-04-06,2023-04-11,First Class,Home Office,South,Miami,Technology,Technology,Plantronics Savi W720,13007.19,7,0,2293.95,17.64
+CA-2023-01401,2023-04-28,2023-05-02,Second Class,Home Office,South,Miami,Furniture,Furniture,Chromcraft Bull-Nose Table,977.07,3,0,71.19,7.29
+CA-2023-01402,2023-04-15,2023-04-20,Standard Class,Consumer,Central,Indianapolis,Technology,Technology,Logitech MK710 Keyboard,3462.0,10,0,546.38,15.78
+CA-2023-01403,2023-04-20,2023-04-21,Standard Class,Home Office,West,Denver,Office Supplies,Office Supplies,Fellowes PB500 Binder,436.14,3,0,119.04,27.29
+CA-2023-01404,2023-04-27,2023-04-28,Same Day,Home Office,West,San Francisco,Office Supplies,Office Supplies,Rogers File Cabinet,1113.0,7,0,249.4,22.41
+CA-2023-01405,2023-04-12,2023-04-17,Standard Class,Consumer,West,Phoenix,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,338.3,10,0.1,59.8,17.68
+CA-2023-01406,2023-04-01,2023-04-07,Second Class,Corporate,West,Denver,Furniture,Furniture,Global Adaptabilites Bookcase,727.35,1,0,35.95,4.94
+CA-2023-01407,2023-05-09,2023-05-12,Same Day,Home Office,East,New York,Technology,Technology,Lenovo ThinkPad,12214.35,9,0,1912.33,15.66
+CA-2023-01408,2023-05-16,2023-05-18,First Class,Home Office,Central,Kansas City,Furniture,Furniture,Bevis Round Conference Table,4237.14,6,0,333.47,7.87
+CA-2023-01409,2023-05-24,2023-05-26,Same Day,Consumer,Central,Kansas City,Office Supplies,Office Supplies,GBC DocuBind P400,1888.16,8,0,641.69,33.98
+CA-2023-01410,2023-05-06,2023-05-10,Same Day,Home Office,Central,Indianapolis,Furniture,Furniture,HON 5400 Series Task Chair,980.89,1,0.1,103.84,10.59
+CA-2023-01411,2023-05-20,2023-05-21,First Class,Home Office,West,Seattle,Technology,Technology,Cisco TelePresence System,19617.15,7,0.3,3140.01,16.01
+CA-2023-01412,2023-05-21,2023-05-25,Second Class,Corporate,Central,Indianapolis,Technology,Technology,Motorola Smart Phone,1444.16,8,0.2,296.13,20.51
+CA-2023-01413,2023-05-20,2023-05-22,First Class,Consumer,West,Denver,Furniture,Furniture,Global Adaptabilites Bookcase,482.91,1,0,44.62,9.24
+CA-2023-01414,2023-05-19,2023-05-21,First Class,Home Office,Central,Minneapolis,Furniture,Furniture,O Sullivan Living Dimensions,874.89,9,0,84.24,9.63
+CA-2023-01415,2023-05-12,2023-05-19,Standard Class,Corporate,Central,Indianapolis,Office Supplies,Office Supplies,Staple envelope,358.8,5,0.1,122.93,34.26
+CA-2023-01416,2023-05-03,2023-05-08,First Class,Corporate,West,Phoenix,Furniture,Furniture,Bevis Round Conference Table,2303.8,5,0.2,113.72,4.94
+CA-2023-01417,2023-05-25,2023-05-28,Standard Class,Corporate,Central,Kansas City,Furniture,Furniture,Global Adaptabilites Bookcase,6747.12,8,0,753.8,11.17
+CA-2023-01418,2023-05-22,2023-05-28,Standard Class,Home Office,West,Phoenix,Furniture,Furniture,Global Adaptabilites Bookcase,3904.72,4,0,285.02,7.3
+CA-2023-01419,2023-05-13,2023-05-19,First Class,Corporate,Central,Minneapolis,Technology,Technology,Cisco TelePresence System,2200.08,6,0.1,468.92,21.31
+CA-2023-01420,2023-05-16,2023-05-22,Second Class,Consumer,West,Denver,Technology,Technology,Apple Smart Phone Full Size,3277.4,4,0,472.62,14.42
+CA-2023-01421,2023-05-05,2023-05-12,Standard Class,Corporate,West,San Francisco,Office Supplies,Office Supplies,Staple envelope,80.72,2,0.3,13.38,16.58
+CA-2023-01422,2023-05-12,2023-05-17,Same Day,Corporate,Central,Indianapolis,Office Supplies,Office Supplies,Eldon Stackable Letterbox,901.44,6,0.2,312.86,34.71
+CA-2023-01423,2023-05-25,2023-05-30,Standard Class,Home Office,West,Denver,Technology,Technology,Apple Smart Phone Full Size,912.96,3,0.1,182.53,19.99
+CA-2023-01424,2023-05-15,2023-05-16,Second Class,Home Office,East,Washington DC,Office Supplies,Office Supplies,Fellowes PB500 Binder,1266.48,9,0,364.55,28.78
+CA-2023-01425,2023-05-28,2023-05-31,First Class,Home Office,East,New York,Technology,Technology,Lenovo ThinkPad,5140.23,3,0.1,738.72,14.37
+CA-2023-01426,2023-05-23,2023-05-30,Second Class,Consumer,East,Washington DC,Furniture,Furniture,O Sullivan Living Dimensions,2933.34,6,0.1,211.34,7.2
+CA-2023-01427,2023-05-26,2023-05-28,Second Class,Home Office,South,Miami,Office Supplies,Office Supplies,Acco Binder,1192.5,9,0,269.72,22.62
+CA-2023-01428,2023-05-05,2023-05-12,First Class,Corporate,East,New York,Technology,Technology,"Samsung Monitor 27""",15046.65,9,0.1,2280.66,15.16
+CA-2023-01429,2023-05-23,2023-05-25,Same Day,Consumer,East,Baltimore,Technology,Technology,Cisco TelePresence System,764.08,1,0.3,111.12,14.54
+CA-2023-01430,2023-05-18,2023-05-25,Second Class,Home Office,Central,Minneapolis,Technology,Technology,Belkin USB Hub,5654.0,5,0,911.29,16.12
+CA-2023-01431,2023-05-12,2023-05-15,First Class,Corporate,East,Baltimore,Technology,Technology,Plantronics Savi W720,13854.24,9,0,2682.91,19.37
+CA-2023-01432,2023-06-14,2023-06-20,Second Class,Consumer,Central,Dallas,Office Supplies,Office Supplies,Staple envelope,1736.3,10,0,555.23,31.98
+CA-2023-01433,2023-06-23,2023-06-26,Same Day,Corporate,East,Philadelphia,Technology,Technology,Plantronics Savi W720,19872.4,10,0.1,2923.72,14.71
+CA-2023-01434,2023-06-24,2023-06-26,Second Class,Consumer,East,Boston,Office Supplies,Office Supplies,Fellowes PB500 Binder,1412.15,5,0,409.72,29.01
+CA-2023-01435,2023-06-18,2023-06-19,First Class,Consumer,East,New York,Technology,Technology,"Samsung Monitor 27""",2347.16,1,0,404.65,17.24
+CA-2023-01436,2023-06-10,2023-06-12,Second Class,Consumer,Central,Chicago,Furniture,Furniture,O Sullivan Living Dimensions,3624.4,4,0,273.47,7.55
+CA-2023-01437,2023-06-28,2023-07-02,Same Day,Home Office,West,Seattle,Office Supplies,Office Supplies,Staple envelope,2340.96,8,0,604.24,25.81
+CA-2023-01438,2023-06-15,2023-06-21,First Class,Corporate,West,Denver,Technology,Technology,Lenovo ThinkPad,13896.9,10,0.2,2556.73,18.4
+CA-2023-01439,2023-06-10,2023-06-13,Second Class,Home Office,East,Boston,Office Supplies,Office Supplies,Eldon Stackable Letterbox,571.48,7,0,120.42,21.07
+CA-2023-01440,2023-06-25,2023-06-29,Second Class,Home Office,East,Washington DC,Furniture,Furniture,Chromcraft Bull-Nose Table,451.15,5,0,33.58,7.44
+CA-2023-01441,2023-06-18,2023-06-22,Same Day,Corporate,Central,Indianapolis,Furniture,Furniture,O Sullivan Living Dimensions,2519.16,7,0.3,244.85,9.72
+CA-2023-01442,2023-06-17,2023-06-24,First Class,Home Office,West,Los Angeles,Furniture,Furniture,Global Adaptabilites Bookcase,9844.8,10,0,933.0,9.48
+CA-2023-01443,2023-06-04,2023-06-10,Second Class,Corporate,East,New York,Technology,Technology,Plantronics Savi W720,15284.24,8,0.2,2250.05,14.72
+CA-2023-01444,2023-06-01,2023-06-03,Standard Class,Home Office,East,Boston,Technology,Technology,Belkin USB Hub,1908.06,2,0.1,252.83,13.25
+CA-2023-01445,2023-06-11,2023-06-15,Standard Class,Corporate,West,San Francisco,Technology,Technology,Apple Smart Phone Full Size,11946.6,5,0,2029.01,16.98
+CA-2023-01446,2023-06-03,2023-06-08,Standard Class,Corporate,East,Boston,Technology,Technology,HP LaserJet Pro,5340.56,8,0,1119.22,20.96
+CA-2023-01447,2023-06-08,2023-06-14,Second Class,Home Office,West,San Francisco,Furniture,Furniture,Chromcraft Bull-Nose Table,303.08,1,0,29.95,9.88
+CA-2023-01448,2023-06-21,2023-06-27,Same Day,Corporate,East,Philadelphia,Office Supplies,Office Supplies,Fellowes PB500 Binder,224.69,1,0,58.4,25.99
+CA-2023-01449,2023-06-28,2023-07-04,Standard Class,Corporate,Central,Dallas,Technology,Technology,Canon imageCLASS Copier,11695.32,4,0.1,1679.41,14.36
+CA-2023-01450,2023-06-26,2023-06-28,Second Class,Corporate,West,Seattle,Furniture,Furniture,O Sullivan Living Dimensions,1165.1,1,0.3,100.77,8.65
+CA-2023-01451,2023-06-03,2023-06-09,Standard Class,Consumer,East,New York,Technology,Technology,"Samsung Monitor 27""",11145.0,10,0.3,2418.08,21.7
+CA-2023-01452,2023-06-05,2023-06-09,Same Day,Corporate,East,Boston,Office Supplies,Office Supplies,GBC DocuBind P400,393.76,4,0.3,103.04,26.17
+CA-2023-01453,2023-06-24,2023-06-26,First Class,Home Office,Central,Chicago,Office Supplies,Office Supplies,Staple envelope,1350.55,5,0.1,333.67,24.71
+CA-2023-01454,2023-06-18,2023-06-21,Second Class,Home Office,East,Washington DC,Technology,Technology,Motorola Smart Phone,13424.1,6,0.2,1980.49,14.75
+CA-2023-01455,2023-06-18,2023-06-21,Second Class,Home Office,West,San Francisco,Furniture,Furniture,Bush Advantage Collection Desk,646.48,8,0.1,58.86,9.1
+CA-2023-01456,2023-06-08,2023-06-11,Same Day,Consumer,South,Charlotte,Office Supplies,Office Supplies,Fiskars Scissors,398.4,2,0.1,102.7,25.78
+CA-2023-01457,2023-06-14,2023-06-20,Second Class,Consumer,Central,Dallas,Furniture,Furniture,Harbour Creations Chair,1222.32,6,0,100.05,8.19
+CA-2023-01458,2023-06-07,2023-06-08,First Class,Corporate,West,Los Angeles,Technology,Technology,"Samsung Monitor 27""",1777.38,1,0.3,361.93,20.36
+CA-2023-01459,2023-07-07,2023-07-13,Standard Class,Home Office,East,Baltimore,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,2231.04,8,0.1,705.94,31.64
+CA-2023-01460,2023-07-27,2023-08-01,Second Class,Consumer,East,Washington DC,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,805.3,5,0,239.06,29.69
+CA-2023-01461,2023-07-18,2023-07-22,Second Class,Home Office,South,Houston,Technology,Technology,Apple Smart Phone Full Size,2801.56,4,0.2,520.22,18.57
+CA-2023-01462,2023-07-25,2023-07-31,Standard Class,Corporate,East,Baltimore,Furniture,Furniture,Eldon Fold N Roll Cart,4809.2,10,0.3,368.85,7.67
+CA-2023-01463,2023-07-11,2023-07-17,First Class,Corporate,West,San Francisco,Furniture,Furniture,Bevis Round Conference Table,2033.91,3,0,178.97,8.8
+CA-2023-01464,2023-07-27,2023-08-02,First Class,Corporate,South,New Orleans,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,1106.88,6,0,290.7,26.26
+CA-2023-01465,2023-07-01,2023-07-07,First Class,Consumer,East,Washington DC,Furniture,Furniture,O Sullivan Living Dimensions,1180.91,1,0.2,103.52,8.77
+CA-2023-01466,2023-07-01,2023-07-08,Second Class,Home Office,West,San Francisco,Technology,Technology,Logitech MK710 Keyboard,13847.35,5,0.2,2369.66,17.11
+CA-2023-01467,2023-07-09,2023-07-12,Same Day,Consumer,West,Phoenix,Technology,Technology,Motorola Smart Phone,8620.9,10,0,1255.41,14.56
+CA-2023-01468,2023-07-26,2023-07-30,Standard Class,Home Office,East,Boston,Office Supplies,Office Supplies,Staple envelope,447.12,3,0.3,147.46,32.98
+CA-2023-01469,2023-07-13,2023-07-14,Standard Class,Corporate,East,Philadelphia,Technology,Technology,Lenovo ThinkPad,2777.33,1,0.1,426.15,15.34
+CA-2023-01470,2023-07-01,2023-07-07,Second Class,Home Office,South,Miami,Office Supplies,Office Supplies,Fiskars Scissors,146.79,7,0,37.41,25.49
+CA-2023-01471,2023-07-15,2023-07-22,Same Day,Corporate,East,Boston,Technology,Technology,HP LaserJet Pro,17894.8,10,0.1,2308.58,12.9
+CA-2023-01472,2023-07-24,2023-07-25,Second Class,Corporate,West,Seattle,Technology,Technology,Lenovo ThinkPad,11589.3,9,0.2,1489.32,12.85
+CA-2023-01473,2023-07-13,2023-07-19,Second Class,Home Office,Central,Kansas City,Furniture,Furniture,Chromcraft Bull-Nose Table,2996.3,10,0.3,267.51,8.93
+CA-2023-01474,2023-07-22,2023-07-27,Second Class,Corporate,West,Seattle,Office Supplies,Office Supplies,Staple envelope,76.4,2,0,17.78,23.27
+CA-2023-01475,2023-07-06,2023-07-09,Same Day,Consumer,East,Baltimore,Furniture,Furniture,Bush Advantage Collection Desk,10001.7,10,0.2,1042.41,10.42
+CA-2023-01476,2023-07-05,2023-07-12,First Class,Consumer,West,San Francisco,Technology,Technology,Logitech MK710 Keyboard,940.52,2,0.2,117.99,12.55
+CA-2023-01477,2023-07-01,2023-07-04,First Class,Home Office,West,Los Angeles,Technology,Technology,"Samsung Monitor 27""",9036.16,4,0.2,1275.79,14.12
+CA-2023-01478,2023-07-23,2023-07-29,First Class,Consumer,East,Baltimore,Office Supplies,Office Supplies,Fellowes PB500 Binder,116.1,1,0.2,38.45,33.12
+CA-2023-01479,2023-08-09,2023-08-10,First Class,Home Office,West,San Francisco,Office Supplies,Office Supplies,Fiskars Scissors,1585.2,8,0.1,240.42,15.17
+CA-2023-01480,2023-08-10,2023-08-17,First Class,Consumer,Central,Minneapolis,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,512.33,7,0.3,115.86,22.61
+CA-2023-01481,2023-08-07,2023-08-12,First Class,Consumer,East,Baltimore,Furniture,Furniture,Sauder Classic Bookcase,5663.76,8,0,549.37,9.7
+CA-2023-01482,2023-08-12,2023-08-18,Standard Class,Corporate,East,Washington DC,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,659.04,6,0.2,138.71,21.05
+CA-2023-01483,2023-08-18,2023-08-21,Standard Class,Consumer,Central,Kansas City,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,199.0,4,0.3,65.56,32.94
+CA-2023-01484,2023-08-28,2023-09-03,First Class,Corporate,Central,Indianapolis,Office Supplies,Office Supplies,Fiskars Scissors,512.44,4,0.1,135.58,26.46
+CA-2023-01485,2023-08-19,2023-08-24,Second Class,Home Office,East,Boston,Technology,Technology,Motorola Smart Phone,10433.48,4,0.3,1574.41,15.09
+CA-2023-01486,2023-08-06,2023-08-09,First Class,Consumer,East,Boston,Furniture,Furniture,Lesro Sheffield Chair,1408.44,2,0,163.22,11.59
+CA-2023-01487,2023-08-14,2023-08-18,First Class,Home Office,South,Miami,Office Supplies,Office Supplies,Staple envelope,678.45,5,0.3,228.47,33.68
+CA-2023-01488,2023-08-01,2023-08-08,Second Class,Consumer,West,San Francisco,Technology,Technology,Motorola Smart Phone,19083.0,10,0.2,3445.64,18.06
+CA-2023-01489,2023-08-05,2023-08-10,Same Day,Corporate,West,Los Angeles,Technology,Technology,"Samsung Monitor 27""",14859.8,10,0,2748.42,18.5
+CA-2023-01490,2023-08-14,2023-08-21,Second Class,Home Office,East,Boston,Technology,Technology,Canon imageCLASS Copier,2787.49,1,0,599.37,21.5
+CA-2023-01491,2023-08-28,2023-09-02,Same Day,Corporate,Central,Chicago,Technology,Technology,"Samsung Monitor 27""",16883.28,8,0,3489.39,20.67
+CA-2023-01492,2023-08-24,2023-08-27,Standard Class,Home Office,Central,Indianapolis,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,1297.73,7,0.2,387.36,29.85
+CA-2023-01493,2023-08-08,2023-08-13,Standard Class,Corporate,East,Washington DC,Furniture,Furniture,HON 5400 Series Task Chair,4707.72,9,0.2,465.19,9.88
+CA-2023-01494,2023-08-25,2023-09-01,Second Class,Consumer,West,Phoenix,Furniture,Furniture,Bush Advantage Collection Desk,2983.55,5,0.2,220.18,7.38
+CA-2023-01495,2023-08-04,2023-08-06,Same Day,Corporate,East,Washington DC,Technology,Technology,Belkin USB Hub,28228.5,10,0,5352.45,18.96
+CA-2023-01496,2023-08-23,2023-08-25,Second Class,Home Office,East,New York,Technology,Technology,Lenovo ThinkPad,3256.08,8,0.3,496.25,15.24
+CA-2023-01497,2023-08-21,2023-08-24,Second Class,Home Office,Central,Chicago,Technology,Technology,"Samsung Monitor 27""",3285.76,2,0.2,520.49,15.84
+CA-2023-01498,2023-08-11,2023-08-16,Same Day,Consumer,East,Washington DC,Technology,Technology,Motorola Smart Phone,1836.15,3,0.3,246.89,13.45
+CA-2023-01499,2023-08-04,2023-08-06,Same Day,Corporate,West,Phoenix,Technology,Technology,Motorola Smart Phone,640.28,4,0,125.84,19.65
+CA-2023-01500,2023-08-16,2023-08-18,Standard Class,Corporate,South,Charlotte,Office Supplies,Office Supplies,Fiskars Scissors,714.84,4,0.1,175.24,24.51
+CA-2023-01501,2023-09-20,2023-09-26,Standard Class,Consumer,East,Boston,Office Supplies,Office Supplies,Acco Binder,2222.46,9,0,425.66,19.15
+CA-2023-01502,2023-09-22,2023-09-27,Same Day,Consumer,Central,Chicago,Technology,Technology,Canon imageCLASS Copier,10005.6,10,0,2121.57,21.2
+CA-2023-01503,2023-09-22,2023-09-28,First Class,Home Office,South,Miami,Furniture,Furniture,Lesro Sheffield Chair,7209.6,10,0.1,612.63,8.5
+CA-2023-01504,2023-09-12,2023-09-16,Same Day,Corporate,South,Houston,Office Supplies,Office Supplies,Staple envelope,457.48,2,0,145.78,31.87
+CA-2023-01505,2023-09-17,2023-09-19,Standard Class,Home Office,West,Seattle,Technology,Technology,HP LaserJet Pro,7577.4,4,0.3,992.11,13.09
+CA-2023-01506,2023-09-14,2023-09-19,Second Class,Corporate,East,Baltimore,Office Supplies,Office Supplies,Acco Binder,489.6,6,0.2,129.76,26.5
+CA-2023-01507,2023-09-16,2023-09-23,Standard Class,Consumer,Central,Kansas City,Furniture,Furniture,Chromcraft Bull-Nose Table,3209.1,3,0,188.11,5.86
+CA-2023-01508,2023-09-24,2023-10-01,First Class,Consumer,West,Phoenix,Furniture,Furniture,Eldon Fold N Roll Cart,3902.04,4,0.1,467.93,11.99
+CA-2023-01509,2023-09-23,2023-09-26,First Class,Home Office,East,Boston,Technology,Technology,Apple Smart Phone Full Size,12010.3,5,0.2,1810.88,15.08
+CA-2023-01510,2023-09-13,2023-09-19,First Class,Consumer,Central,Chicago,Office Supplies,Office Supplies,Staple envelope,1867.2,10,0,290.95,15.58
+CA-2023-01511,2023-09-21,2023-09-23,Same Day,Corporate,South,New Orleans,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,406.72,8,0.2,98.48,24.21
+CA-2023-01512,2023-09-27,2023-10-02,Standard Class,Home Office,Central,Kansas City,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,858.3,5,0.2,245.16,28.56
+CA-2023-01513,2023-09-03,2023-09-05,Second Class,Home Office,West,Seattle,Office Supplies,Office Supplies,Staple envelope,1265.1,5,0.1,275.58,21.78
+CA-2023-01514,2023-09-28,2023-10-05,Same Day,Corporate,East,Washington DC,Technology,Technology,Cisco TelePresence System,10800.05,5,0,1635.67,15.15
+CA-2023-01515,2023-09-07,2023-09-12,Standard Class,Consumer,West,San Francisco,Technology,Technology,Plantronics Savi W720,3243.95,5,0,510.67,15.74
+CA-2023-01516,2023-09-05,2023-09-07,First Class,Corporate,East,New York,Office Supplies,Office Supplies,Rogers File Cabinet,1664.82,6,0.2,493.6,29.65
+CA-2023-01517,2023-09-22,2023-09-24,Standard Class,Home Office,West,Los Angeles,Office Supplies,Office Supplies,Rogers File Cabinet,875.0,4,0.3,211.64,24.19
+CA-2023-01518,2023-09-28,2023-09-29,First Class,Home Office,West,Los Angeles,Office Supplies,Office Supplies,Fiskars Scissors,856.38,6,0.2,136.36,15.92
+CA-2023-01519,2023-09-11,2023-09-13,Standard Class,Home Office,West,Seattle,Furniture,Furniture,Global Adaptabilites Bookcase,1603.84,4,0.1,132.45,8.26
+CA-2023-01520,2023-09-20,2023-09-25,First Class,Corporate,West,San Francisco,Technology,Technology,Canon imageCLASS Copier,3975.93,9,0.2,692.82,17.43
+CA-2023-01521,2023-09-03,2023-09-06,Standard Class,Consumer,West,Seattle,Furniture,Furniture,Sauder Classic Bookcase,10793.1,10,0,898.48,8.32
+CA-2023-01522,2023-09-03,2023-09-07,Same Day,Home Office,East,New York,Technology,Technology,Canon imageCLASS Copier,4620.7,7,0.2,829.93,17.96
+CA-2023-01523,2023-09-23,2023-09-30,Second Class,Home Office,Central,Minneapolis,Technology,Technology,Apple Smart Phone Full Size,3364.65,9,0.1,714.24,21.23
+CA-2023-01524,2023-09-22,2023-09-28,First Class,Home Office,West,Phoenix,Technology,Technology,Plantronics Savi W720,11928.48,8,0,2561.58,21.47
+CA-2023-01525,2023-09-26,2023-10-03,First Class,Consumer,South,New Orleans,Technology,Technology,Logitech MK710 Keyboard,8651.16,6,0.1,1064.32,12.3
+CA-2023-01526,2023-09-20,2023-09-25,First Class,Consumer,East,Boston,Technology,Technology,Logitech MK710 Keyboard,4792.98,3,0.3,769.6,16.06
+CA-2023-01527,2023-09-15,2023-09-19,Same Day,Consumer,East,New York,Office Supplies,Office Supplies,Rogers File Cabinet,1269.7,10,0.2,348.12,27.42
+CA-2023-01528,2023-09-14,2023-09-21,Second Class,Consumer,East,Philadelphia,Technology,Technology,Lenovo ThinkPad,12365.85,7,0.3,1907.06,15.42
+CA-2023-01529,2023-09-27,2023-10-01,Same Day,Consumer,Central,Chicago,Office Supplies,Office Supplies,Fiskars Scissors,359.38,2,0.2,87.18,24.26
+CA-2023-01530,2023-09-22,2023-09-29,Standard Class,Home Office,West,Phoenix,Technology,Technology,Cisco TelePresence System,23483.3,10,0.1,3707.8,15.79
+CA-2023-01531,2023-09-25,2023-09-27,Same Day,Home Office,West,San Francisco,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,415.89,3,0.2,86.63,20.83
+CA-2023-01532,2023-09-14,2023-09-20,Same Day,Home Office,West,Seattle,Technology,Technology,Plantronics Savi W720,17833.92,6,0.2,3179.3,17.83
+CA-2023-01533,2023-10-02,2023-10-03,Second Class,Consumer,South,Houston,Technology,Technology,Belkin USB Hub,22402.35,9,0,3493.07,15.59
+CA-2023-01534,2023-10-23,2023-10-27,Same Day,Consumer,East,Baltimore,Furniture,Furniture,Harbour Creations Chair,3551.45,7,0.3,296.93,8.36
+CA-2023-01535,2023-10-27,2023-10-31,Standard Class,Consumer,West,Denver,Furniture,Furniture,Harbour Creations Chair,1209.27,3,0,132.8,10.98
+CA-2023-01536,2023-10-22,2023-10-26,Same Day,Corporate,West,Los Angeles,Technology,Technology,"Samsung Monitor 27""",1173.87,3,0.1,216.26,18.42
+CA-2023-01537,2023-10-27,2023-10-31,Same Day,Consumer,Central,Kansas City,Furniture,Furniture,Bevis Round Conference Table,3345.58,7,0.2,183.55,5.49
+CA-2023-01538,2023-10-14,2023-10-19,First Class,Corporate,South,Miami,Office Supplies,Office Supplies,Acco Binder,1132.6,10,0.2,391.48,34.56
+CA-2023-01539,2023-10-05,2023-10-11,Standard Class,Corporate,West,Phoenix,Office Supplies,Office Supplies,GBC DocuBind P400,2656.44,9,0,921.08,34.67
+CA-2023-01540,2023-10-21,2023-10-27,Standard Class,Corporate,East,Baltimore,Technology,Technology,"Samsung Monitor 27""",4199.22,2,0.2,730.33,17.39
+CA-2023-01541,2023-10-15,2023-10-20,First Class,Corporate,South,Charlotte,Office Supplies,Office Supplies,Eldon Stackable Letterbox,1394.56,8,0,301.65,21.63
+CA-2023-01542,2023-10-09,2023-10-10,Standard Class,Corporate,West,Denver,Office Supplies,Office Supplies,Fiskars Scissors,1404.4,8,0.3,371.56,26.46
+CA-2023-01543,2023-10-28,2023-11-04,Standard Class,Corporate,West,Los Angeles,Technology,Technology,Cisco TelePresence System,4341.75,5,0,788.37,18.16
+CA-2023-01544,2023-10-24,2023-10-26,Same Day,Consumer,Central,Indianapolis,Technology,Technology,Lenovo ThinkPad,9630.72,8,0.3,1324.61,13.75
+CA-2023-01545,2023-10-03,2023-10-05,Same Day,Corporate,West,Denver,Office Supplies,Office Supplies,Staple envelope,2805.1,10,0.1,507.25,18.08
+CA-2023-01546,2023-10-07,2023-10-12,Second Class,Consumer,West,Phoenix,Office Supplies,Office Supplies,Fellowes PB500 Binder,126.18,6,0,25.6,20.29
+CA-2023-01547,2023-10-08,2023-10-12,First Class,Consumer,East,Washington DC,Technology,Technology,Belkin USB Hub,10518.06,7,0.1,1414.84,13.45
+CA-2023-01548,2023-10-17,2023-10-23,First Class,Corporate,South,New Orleans,Furniture,Furniture,Harbour Creations Chair,189.05,1,0,15.6,8.25
+CA-2023-01549,2023-10-21,2023-10-26,Second Class,Home Office,East,Philadelphia,Office Supplies,Office Supplies,Acco Binder,987.21,7,0,281.41,28.51
+CA-2023-01550,2023-10-22,2023-10-23,Same Day,Home Office,East,Boston,Technology,Technology,Canon imageCLASS Copier,368.18,2,0,47.78,12.98
+CA-2023-01551,2023-10-01,2023-10-06,Standard Class,Home Office,East,Philadelphia,Technology,Technology,Canon imageCLASS Copier,624.22,2,0,111.99,17.94
+CA-2023-01552,2023-10-05,2023-10-09,Second Class,Home Office,Central,Chicago,Technology,Technology,Lenovo ThinkPad,24391.2,10,0,3377.62,13.85
+CA-2023-01553,2023-10-21,2023-10-25,First Class,Corporate,West,Phoenix,Furniture,Furniture,Eldon Fold N Roll Cart,4708.4,5,0.3,449.08,9.54
+CA-2023-01554,2023-10-13,2023-10-17,Same Day,Consumer,West,Los Angeles,Technology,Technology,Canon imageCLASS Copier,17930.88,6,0,2614.75,14.58
+CA-2023-01555,2023-10-21,2023-10-25,Standard Class,Home Office,West,San Francisco,Furniture,Furniture,Sauder Classic Bookcase,482.28,2,0,48.95,10.15
+CA-2023-01556,2023-10-03,2023-10-08,Standard Class,Consumer,South,Atlanta,Technology,Technology,Cisco TelePresence System,11825.65,5,0.1,1441.27,12.19
+CA-2023-01557,2023-11-13,2023-11-18,Same Day,Corporate,Central,Minneapolis,Technology,Technology,Logitech MK710 Keyboard,1618.84,1,0.1,346.42,21.4
+CA-2023-01558,2023-11-13,2023-11-19,First Class,Corporate,East,New York,Furniture,Furniture,HON 5400 Series Task Chair,1726.0,8,0,142.95,8.28
+CA-2023-01559,2023-11-03,2023-11-10,Standard Class,Consumer,East,New York,Technology,Technology,Logitech MK710 Keyboard,18538.32,8,0,2762.13,14.9
+CA-2023-01560,2023-11-04,2023-11-10,Second Class,Home Office,South,Miami,Technology,Technology,HP LaserJet Pro,9219.24,6,0.1,1922.41,20.85
+CA-2023-01561,2023-11-08,2023-11-12,Same Day,Corporate,West,San Francisco,Technology,Technology,Lenovo ThinkPad,2306.71,7,0,401.49,17.41
+CA-2023-01562,2023-11-11,2023-11-18,Same Day,Home Office,South,Houston,Technology,Technology,Canon imageCLASS Copier,1305.7,1,0.3,184.32,14.12
+CA-2023-01563,2023-11-08,2023-11-09,Standard Class,Corporate,South,Charlotte,Technology,Technology,Lenovo ThinkPad,2246.06,1,0,379.34,16.89
+CA-2023-01564,2023-11-10,2023-11-17,Standard Class,Consumer,West,San Francisco,Technology,Technology,Canon imageCLASS Copier,2900.26,2,0.2,397.54,13.71
+CA-2023-01565,2023-11-03,2023-11-10,Same Day,Home Office,West,Denver,Office Supplies,Office Supplies,Avery Binders,522.92,4,0.3,163.31,31.23
+CA-2023-01566,2023-11-27,2023-12-04,Standard Class,Consumer,East,Baltimore,Furniture,Furniture,Harbour Creations Chair,3743.76,4,0,327.38,8.74
+CA-2023-01567,2023-11-18,2023-11-20,Same Day,Consumer,West,Phoenix,Technology,Technology,Logitech MK710 Keyboard,6755.12,8,0,1203.75,17.82
+CA-2023-01568,2023-11-01,2023-11-02,Same Day,Corporate,Central,Chicago,Office Supplies,Office Supplies,GBC DocuBind P400,834.63,3,0.2,243.17,29.14
+CA-2023-01569,2023-11-05,2023-11-11,Standard Class,Home Office,Central,Kansas City,Office Supplies,Office Supplies,Avery Binders,796.55,5,0,185.12,23.24
+CA-2023-01570,2023-11-21,2023-11-28,Standard Class,Consumer,East,Washington DC,Furniture,Furniture,Eldon Fold N Roll Cart,2348.0,5,0,94.78,4.04
+CA-2023-01571,2023-11-17,2023-11-19,Second Class,Consumer,South,Houston,Furniture,Furniture,Bevis Round Conference Table,7542.16,8,0,699.51,9.27
+CA-2023-01572,2023-11-16,2023-11-18,First Class,Corporate,West,San Francisco,Office Supplies,Office Supplies,Eldon Stackable Letterbox,608.07,3,0.3,96.45,15.86
+CA-2023-01573,2023-11-02,2023-11-03,Standard Class,Corporate,West,Seattle,Technology,Technology,"Samsung Monitor 27""",2785.85,1,0,383.3,13.76
+CA-2023-01574,2023-11-19,2023-11-22,Standard Class,Consumer,West,San Francisco,Office Supplies,Office Supplies,Fiskars Scissors,445.41,7,0,127.11,28.54
+CA-2023-01575,2023-11-28,2023-11-30,Standard Class,Corporate,East,New York,Technology,Technology,HP LaserJet Pro,18832.73,7,0.2,2398.4,12.74
+CA-2023-01576,2023-11-15,2023-11-17,First Class,Home Office,South,Miami,Technology,Technology,Lenovo ThinkPad,8501.01,7,0,1409.25,16.58
+CA-2023-01577,2023-11-23,2023-11-28,Same Day,Corporate,South,Miami,Technology,Technology,Canon imageCLASS Copier,949.72,1,0.1,124.52,13.11
+CA-2023-01578,2023-11-20,2023-11-22,Standard Class,Consumer,West,Seattle,Technology,Technology,Plantronics Savi W720,27309.0,10,0.2,4855.87,17.78
+CA-2023-01579,2023-11-19,2023-11-23,Second Class,Consumer,East,Baltimore,Furniture,Furniture,Global Adaptabilites Bookcase,3141.36,8,0.3,309.11,9.84
+CA-2023-01580,2023-11-05,2023-11-10,Standard Class,Home Office,East,Baltimore,Technology,Technology,Lenovo ThinkPad,1340.65,1,0.1,166.81,12.44
+CA-2023-01581,2023-11-15,2023-11-19,Same Day,Home Office,East,Washington DC,Furniture,Furniture,Eldon Fold N Roll Cart,692.24,4,0.3,69.39,10.02
+CA-2023-01582,2023-11-21,2023-11-22,Standard Class,Corporate,South,Miami,Technology,Technology,Apple Smart Phone Full Size,1517.38,1,0.3,228.34,15.05
+CA-2023-01583,2023-12-06,2023-12-13,Standard Class,Home Office,East,Boston,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,1139.46,6,0,331.33,29.08
+CA-2023-01584,2023-12-14,2023-12-21,Standard Class,Consumer,East,Philadelphia,Furniture,Furniture,Bush Advantage Collection Desk,4309.1,5,0.2,383.51,8.9
+CA-2023-01585,2023-12-17,2023-12-23,Standard Class,Corporate,Central,Minneapolis,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,1601.7,6,0,275.8,17.22
+CA-2023-01586,2023-12-18,2023-12-24,Same Day,Consumer,East,Boston,Furniture,Furniture,Eldon Fold N Roll Cart,940.04,4,0.2,62.79,6.68
+CA-2023-01587,2023-12-25,2023-12-31,Same Day,Home Office,Central,Indianapolis,Office Supplies,Office Supplies,Avery Binders,398.16,4,0.2,131.23,32.96
+CA-2023-01588,2023-12-16,2023-12-21,First Class,Home Office,West,Los Angeles,Furniture,Furniture,Chromcraft Bull-Nose Table,9081.99,9,0.2,704.88,7.76
+CA-2023-01589,2023-12-07,2023-12-11,Standard Class,Consumer,East,Philadelphia,Office Supplies,Office Supplies,GBC DocuBind P400,57.3,2,0,18.89,32.97
+CA-2023-01590,2023-12-05,2023-12-12,Second Class,Corporate,West,Los Angeles,Office Supplies,Office Supplies,Eldon Stackable Letterbox,634.4,4,0,174.75,27.55
+CA-2023-01591,2023-12-10,2023-12-12,First Class,Home Office,East,Washington DC,Furniture,Furniture,HON 5400 Series Task Chair,209.36,2,0.2,21.81,10.42
+CA-2023-01592,2023-12-16,2023-12-21,Second Class,Home Office,East,Philadelphia,Furniture,Furniture,Harbour Creations Chair,9206.46,9,0,696.2,7.56
+CA-2023-01593,2023-12-08,2023-12-12,First Class,Consumer,South,Atlanta,Technology,Technology,Plantronics Savi W720,17499.36,6,0,3446.94,19.7
+CA-2023-01594,2023-12-23,2023-12-28,Second Class,Home Office,West,San Francisco,Furniture,Furniture,Sauder Classic Bookcase,1420.75,5,0.3,76.76,5.4
+CA-2023-01595,2023-12-19,2023-12-21,Standard Class,Home Office,West,Los Angeles,Technology,Technology,Logitech MK710 Keyboard,7137.28,8,0.2,988.15,13.84
+CA-2023-01596,2023-12-18,2023-12-20,Second Class,Corporate,Central,Minneapolis,Technology,Technology,"Samsung Monitor 27""",9085.05,9,0.1,1926.42,21.2
+CA-2023-01597,2023-12-17,2023-12-20,Second Class,Home Office,South,Atlanta,Technology,Technology,Belkin USB Hub,7503.25,5,0.2,1117.85,14.9
+CA-2023-01598,2023-12-24,2023-12-28,Same Day,Consumer,Central,Kansas City,Technology,Technology,Cisco TelePresence System,547.36,1,0,95.84,17.51
+CA-2023-01599,2023-12-11,2023-12-12,Second Class,Corporate,Central,Dallas,Furniture,Furniture,Eldon Fold N Roll Cart,7982.7,10,0,691.9,8.67
+CA-2023-01600,2023-12-17,2023-12-21,First Class,Consumer,West,Denver,Office Supplies,Office Supplies,GBC DocuBind P400,598.76,4,0.2,162.05,27.06
+CA-2023-01601,2023-12-01,2023-12-04,Second Class,Consumer,East,Washington DC,Technology,Technology,Logitech MK710 Keyboard,6908.16,6,0.2,1504.27,21.78
+CA-2023-01602,2023-12-26,2023-12-30,Same Day,Home Office,Central,Kansas City,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,266.6,5,0.1,78.81,29.56
+CA-2023-01603,2023-12-07,2023-12-10,Same Day,Consumer,West,Denver,Furniture,Furniture,Sauder Classic Bookcase,9495.92,8,0,778.89,8.2
+CA-2023-01604,2023-12-14,2023-12-16,Second Class,Consumer,West,Phoenix,Furniture,Furniture,Bush Advantage Collection Desk,5378.13,9,0,459.47,8.54
+CA-2023-01605,2023-12-27,2024-01-03,Same Day,Home Office,South,Atlanta,Furniture,Furniture,HON 5400 Series Task Chair,5073.7,5,0.2,326.31,6.43
+CA-2023-01606,2023-12-21,2023-12-28,Second Class,Corporate,West,Los Angeles,Technology,Technology,Plantronics Savi W720,4031.2,8,0,752.19,18.66
+CA-2023-01607,2023-12-16,2023-12-17,First Class,Corporate,East,Boston,Technology,Technology,Plantronics Savi W720,22748.6,10,0.2,4051.68,17.81
+CA-2023-01608,2023-12-12,2023-12-17,Second Class,Consumer,Central,Kansas City,Office Supplies,Office Supplies,GBC DocuBind P400,101.8,10,0.2,20.55,20.19
+CA-2023-01609,2023-12-09,2023-12-12,First Class,Corporate,East,Boston,Technology,Technology,Canon imageCLASS Copier,13743.1,7,0,2961.85,21.55
+CA-2023-01610,2023-12-25,2023-12-26,First Class,Home Office,East,New York,Furniture,Furniture,Sauder Classic Bookcase,9229.4,10,0,770.63,8.35
+CA-2023-01611,2023-12-12,2023-12-19,Same Day,Corporate,West,Seattle,Technology,Technology,Lenovo ThinkPad,560.28,3,0,96.27,17.18
+CA-2023-01612,2023-12-17,2023-12-19,Standard Class,Home Office,East,Boston,Technology,Technology,Motorola Smart Phone,9664.2,4,0.3,1699.6,17.59
+CA-2023-01613,2023-12-01,2023-12-05,First Class,Home Office,East,New York,Technology,Technology,Motorola Smart Phone,6227.88,6,0.1,973.15,15.63
+CA-2023-01614,2023-12-08,2023-12-10,Standard Class,Consumer,West,Seattle,Technology,Technology,Cisco TelePresence System,6332.79,3,0,954.62,15.07
+CA-2023-01615,2023-12-25,2023-12-29,Standard Class,Home Office,East,New York,Technology,Technology,"Samsung Monitor 27""",709.6,1,0.3,87.48,12.33
+CA-2023-01616,2023-12-22,2023-12-23,Second Class,Home Office,East,Philadelphia,Technology,Technology,Plantronics Savi W720,4759.52,2,0,1009.06,21.2
+CA-2024-01617,2024-01-19,2024-01-22,Second Class,Home Office,Central,Chicago,Technology,Technology,Plantronics Savi W720,3645.54,6,0.3,619.97,17.01
+CA-2024-01618,2024-01-25,2024-01-26,Standard Class,Consumer,East,New York,Technology,Technology,Lenovo ThinkPad,6915.96,9,0,962.39,13.92
+CA-2024-01619,2024-01-28,2024-02-03,Standard Class,Home Office,South,Houston,Office Supplies,Office Supplies,Rogers File Cabinet,904.88,8,0.1,242.4,26.79
+CA-2024-01620,2024-01-07,2024-01-12,Same Day,Consumer,West,Seattle,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,500.96,4,0,151.43,30.23
+CA-2024-01621,2024-01-23,2024-01-26,Same Day,Consumer,West,San Francisco,Furniture,Furniture,Harbour Creations Chair,7999.11,9,0.1,372.6,4.66
+CA-2024-01622,2024-01-08,2024-01-13,Same Day,Consumer,West,Denver,Office Supplies,Office Supplies,Eldon Stackable Letterbox,635.04,7,0,203.89,32.11
+CA-2024-01623,2024-01-22,2024-01-23,Second Class,Consumer,South,Atlanta,Technology,Technology,"Samsung Monitor 27""",9789.29,7,0,1819.39,18.59
+CA-2024-01624,2024-01-03,2024-01-06,Second Class,Consumer,East,Baltimore,Office Supplies,Office Supplies,Fellowes PB500 Binder,419.6,4,0.1,112.87,26.9
+CA-2024-01625,2024-01-19,2024-01-22,First Class,Corporate,South,New Orleans,Technology,Technology,Lenovo ThinkPad,8154.16,7,0.1,1522.12,18.67
+CA-2024-01626,2024-01-16,2024-01-20,Standard Class,Home Office,West,Phoenix,Technology,Technology,Plantronics Savi W720,7763.44,4,0,1036.12,13.35
+CA-2024-01627,2024-01-13,2024-01-18,Same Day,Consumer,South,New Orleans,Furniture,Furniture,Sauder Classic Bookcase,1506.42,6,0,135.21,8.98
+CA-2024-01628,2024-01-16,2024-01-21,Standard Class,Home Office,Central,Dallas,Technology,Technology,"Samsung Monitor 27""",8479.75,5,0.2,1703.99,20.09
+CA-2024-01629,2024-01-13,2024-01-17,Second Class,Consumer,South,Houston,Office Supplies,Office Supplies,GBC DocuBind P400,1539.6,6,0,367.21,23.85
+CA-2024-01630,2024-01-16,2024-01-20,Same Day,Home Office,East,Philadelphia,Office Supplies,Office Supplies,Fellowes PB500 Binder,291.54,3,0,66.42,22.78
+CA-2024-01631,2024-01-18,2024-01-25,Same Day,Home Office,Central,Indianapolis,Furniture,Furniture,Chromcraft Bull-Nose Table,1942.47,3,0.1,138.52,7.13
+CA-2024-01632,2024-01-11,2024-01-12,Standard Class,Corporate,Central,Minneapolis,Office Supplies,Office Supplies,Acco Binder,179.19,1,0,31.47,17.56
+CA-2024-01633,2024-01-12,2024-01-15,First Class,Consumer,Central,Minneapolis,Furniture,Furniture,O Sullivan Living Dimensions,3313.94,7,0,307.86,9.29
+CA-2024-01634,2024-01-11,2024-01-13,Same Day,Corporate,East,New York,Office Supplies,Office Supplies,GBC DocuBind P400,163.83,1,0.3,25.8,15.75
+CA-2024-01635,2024-01-13,2024-01-18,Second Class,Consumer,West,Phoenix,Furniture,Furniture,Harbour Creations Chair,3087.77,7,0.1,147.65,4.78
+CA-2024-01636,2024-01-06,2024-01-11,Standard Class,Home Office,East,Baltimore,Office Supplies,Office Supplies,Staple envelope,560.9,5,0.1,133.04,23.72
+CA-2024-01637,2024-01-02,2024-01-05,Standard Class,Consumer,South,Charlotte,Technology,Technology,Plantronics Savi W720,12957.8,10,0.3,1847.63,14.26
+CA-2024-01638,2024-01-16,2024-01-20,First Class,Home Office,East,Philadelphia,Technology,Technology,Belkin USB Hub,4559.4,4,0,582.08,12.77
+CA-2024-01639,2024-01-13,2024-01-16,Standard Class,Consumer,East,Baltimore,Technology,Technology,HP LaserJet Pro,16188.0,10,0.2,3029.68,18.72
+CA-2024-01640,2024-01-16,2024-01-18,Standard Class,Corporate,Central,Indianapolis,Office Supplies,Office Supplies,Fiskars Scissors,672.32,8,0.2,186.63,27.76
+CA-2024-01641,2024-02-24,2024-03-01,Second Class,Home Office,West,Phoenix,Technology,Technology,Motorola Smart Phone,12778.75,5,0,2057.71,16.1
+CA-2024-01642,2024-02-09,2024-02-15,Standard Class,Consumer,South,Atlanta,Office Supplies,Office Supplies,Fellowes PB500 Binder,746.6,10,0,147.6,19.77
+CA-2024-01643,2024-02-14,2024-02-18,First Class,Corporate,West,Seattle,Furniture,Furniture,Bevis Round Conference Table,306.23,1,0,18.93,6.18
+CA-2024-01644,2024-02-24,2024-02-28,First Class,Home Office,Central,Dallas,Furniture,Furniture,HON 5400 Series Task Chair,141.97,1,0,15.86,11.17
+CA-2024-01645,2024-02-13,2024-02-20,First Class,Consumer,South,New Orleans,Office Supplies,Office Supplies,GBC DocuBind P400,223.89,3,0.2,59.15,26.42
+CA-2024-01646,2024-02-25,2024-03-03,Second Class,Home Office,East,New York,Technology,Technology,Cisco TelePresence System,6530.76,6,0.1,1165.3,17.84
+CA-2024-01647,2024-02-07,2024-02-10,First Class,Corporate,South,Miami,Technology,Technology,Motorola Smart Phone,10510.96,8,0,2168.31,20.63
+CA-2024-01648,2024-02-16,2024-02-22,Same Day,Corporate,Central,Chicago,Technology,Technology,HP LaserJet Pro,11581.8,4,0,2408.36,20.79
+CA-2024-01649,2024-02-02,2024-02-09,Same Day,Corporate,Central,Minneapolis,Technology,Technology,Lenovo ThinkPad,2118.44,1,0,421.32,19.89
+CA-2024-01650,2024-02-18,2024-02-25,First Class,Corporate,West,Seattle,Office Supplies,Office Supplies,GBC DocuBind P400,1032.04,4,0.1,234.99,22.77
+CA-2024-01651,2024-02-15,2024-02-21,First Class,Consumer,West,San Francisco,Technology,Technology,Motorola Smart Phone,15938.88,6,0.1,3134.76,19.67
+CA-2024-01652,2024-02-27,2024-03-01,First Class,Home Office,South,New Orleans,Furniture,Furniture,O Sullivan Living Dimensions,7433.79,7,0,785.15,10.56
+CA-2024-01653,2024-02-24,2024-02-27,Second Class,Home Office,East,Philadelphia,Furniture,Furniture,Bevis Round Conference Table,6869.12,8,0.3,693.49,10.1
+CA-2024-01654,2024-02-21,2024-02-24,Second Class,Home Office,Central,Dallas,Technology,Technology,Apple Smart Phone Full Size,10746.36,6,0,1408.66,13.11
+CA-2024-01655,2024-02-15,2024-02-19,Second Class,Corporate,South,New Orleans,Office Supplies,Office Supplies,Staple envelope,245.7,3,0,70.64,28.75
+CA-2024-01656,2024-02-27,2024-03-03,Second Class,Home Office,West,Seattle,Technology,Technology,HP LaserJet Pro,836.36,4,0.2,102.28,12.23
+CA-2024-01657,2024-02-02,2024-02-06,Second Class,Corporate,South,New Orleans,Technology,Technology,Motorola Smart Phone,13723.7,10,0,2003.88,14.6
+CA-2024-01658,2024-02-14,2024-02-21,Second Class,Home Office,South,Houston,Technology,Technology,Belkin USB Hub,20061.44,8,0,3398.71,16.94
+CA-2024-01659,2024-02-13,2024-02-15,Second Class,Home Office,West,Seattle,Technology,Technology,"Samsung Monitor 27""",18133.92,7,0,3264.26,18.0
+CA-2024-01660,2024-02-10,2024-02-13,Same Day,Home Office,East,Washington DC,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,748.88,4,0,248.23,33.15
+CA-2024-01661,2024-02-23,2024-02-27,First Class,Home Office,West,Phoenix,Technology,Technology,Logitech MK710 Keyboard,8732.04,4,0.3,1666.47,19.08
+CA-2024-01662,2024-02-08,2024-02-12,Standard Class,Home Office,West,Denver,Technology,Technology,Logitech MK710 Keyboard,17944.26,6,0.2,3838.85,21.39
+CA-2024-01663,2024-02-13,2024-02-19,Second Class,Home Office,West,Denver,Furniture,Furniture,Bush Advantage Collection Desk,1368.66,6,0,152.44,11.14
+CA-2024-01664,2024-02-15,2024-02-17,Standard Class,Corporate,West,Denver,Furniture,Furniture,Harbour Creations Chair,870.8,2,0,71.78,8.24
+CA-2024-01665,2024-02-24,2024-02-27,First Class,Corporate,West,San Francisco,Furniture,Furniture,Bush Advantage Collection Desk,2778.16,7,0.2,306.03,11.02
+CA-2024-01666,2024-02-25,2024-02-27,Second Class,Consumer,East,Boston,Technology,Technology,"Samsung Monitor 27""",23230.35,9,0.1,4314.85,18.57
+CA-2024-01667,2024-02-09,2024-02-11,Same Day,Consumer,West,San Francisco,Technology,Technology,"Samsung Monitor 27""",11150.64,8,0.1,2447.79,21.95
+CA-2024-01668,2024-02-04,2024-02-11,Second Class,Consumer,East,Baltimore,Furniture,Furniture,Chromcraft Bull-Nose Table,655.47,3,0,31.13,4.75
+CA-2024-01669,2024-02-07,2024-02-12,Second Class,Consumer,Central,Minneapolis,Furniture,Furniture,Lesro Sheffield Chair,669.14,1,0.1,57.32,8.57
+CA-2024-01670,2024-02-10,2024-02-16,Second Class,Corporate,Central,Chicago,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,242.56,2,0,65.02,26.81
+CA-2024-01671,2024-03-20,2024-03-26,First Class,Corporate,West,Phoenix,Furniture,Furniture,Bush Advantage Collection Desk,448.96,1,0.2,19.53,4.35
+CA-2024-01672,2024-03-26,2024-04-01,Same Day,Home Office,South,Charlotte,Technology,Technology,Canon imageCLASS Copier,5355.2,5,0,672.36,12.56
+CA-2024-01673,2024-03-03,2024-03-04,Second Class,Home Office,West,Seattle,Technology,Technology,HP LaserJet Pro,2457.52,4,0,486.46,19.79
+CA-2024-01674,2024-03-22,2024-03-27,Second Class,Home Office,West,Phoenix,Office Supplies,Office Supplies,Acco Binder,332.76,3,0,56.31,16.92
+CA-2024-01675,2024-03-20,2024-03-24,Same Day,Consumer,East,Washington DC,Furniture,Furniture,Lesro Sheffield Chair,1854.54,2,0.2,194.5,10.49
+CA-2024-01676,2024-03-15,2024-03-21,Standard Class,Home Office,Central,Chicago,Technology,Technology,Logitech MK710 Keyboard,7982.76,4,0.1,1527.61,19.14
+CA-2024-01677,2024-03-10,2024-03-12,Same Day,Home Office,West,Phoenix,Technology,Technology,"Samsung Monitor 27""",6300.87,3,0,945.39,15.0
+CA-2024-01678,2024-03-17,2024-03-18,First Class,Home Office,West,Los Angeles,Furniture,Furniture,HON 5400 Series Task Chair,5003.1,9,0.3,237.94,4.76
+CA-2024-01679,2024-03-01,2024-03-02,Standard Class,Consumer,East,Baltimore,Technology,Technology,Belkin USB Hub,5293.76,8,0.1,731.71,13.82
+CA-2024-01680,2024-03-25,2024-03-31,Second Class,Consumer,East,Philadelphia,Technology,Technology,"Samsung Monitor 27""",15422.88,8,0,2259.57,14.65
+CA-2024-01681,2024-03-14,2024-03-19,Same Day,Home Office,West,Denver,Technology,Technology,Cisco TelePresence System,166.66,1,0,21.94,13.16
+CA-2024-01682,2024-03-24,2024-03-28,Same Day,Home Office,East,Washington DC,Office Supplies,Office Supplies,Fiskars Scissors,937.3,5,0,323.17,34.48
+CA-2024-01683,2024-03-07,2024-03-08,Same Day,Consumer,Central,Chicago,Technology,Technology,Canon imageCLASS Copier,2133.69,1,0,296.2,13.88
+CA-2024-01684,2024-03-07,2024-03-08,Standard Class,Consumer,Central,Dallas,Furniture,Furniture,Bevis Round Conference Table,4710.45,5,0.1,244.25,5.19
+CA-2024-01685,2024-03-16,2024-03-20,Same Day,Corporate,West,San Francisco,Office Supplies,Office Supplies,Eldon Stackable Letterbox,258.64,1,0,69.07,26.71
+CA-2024-01686,2024-03-14,2024-03-21,Standard Class,Corporate,West,Los Angeles,Technology,Technology,HP LaserJet Pro,18005.36,8,0.2,3233.47,17.96
+CA-2024-01687,2024-03-22,2024-03-29,First Class,Corporate,East,Washington DC,Furniture,Furniture,Lesro Sheffield Chair,2717.84,8,0,121.91,4.49
+CA-2024-01688,2024-03-16,2024-03-17,Same Day,Home Office,East,Philadelphia,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,1509.6,8,0.1,421.53,27.92
+CA-2024-01689,2024-03-12,2024-03-16,Same Day,Corporate,West,Seattle,Office Supplies,Office Supplies,Eldon Stackable Letterbox,619.0,4,0.3,165.6,26.75
+CA-2024-01690,2024-03-14,2024-03-21,Second Class,Home Office,West,Seattle,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,1438.86,6,0,445.98,31.0
+CA-2024-01691,2024-03-06,2024-03-08,First Class,Corporate,West,Los Angeles,Furniture,Furniture,Sauder Classic Bookcase,2275.32,3,0.1,109.38,4.81
+CA-2024-01692,2024-03-12,2024-03-15,Standard Class,Consumer,West,Denver,Technology,Technology,Canon imageCLASS Copier,12475.44,6,0.2,1715.02,13.75
+CA-2024-01693,2024-04-08,2024-04-12,First Class,Home Office,East,Baltimore,Technology,Technology,Belkin USB Hub,14909.7,5,0,2959.41,19.85
+CA-2024-01694,2024-04-23,2024-04-24,Standard Class,Consumer,South,Charlotte,Furniture,Furniture,Eldon Fold N Roll Cart,7798.96,8,0,912.57,11.7
+CA-2024-01695,2024-04-21,2024-04-22,Same Day,Home Office,Central,Chicago,Furniture,Furniture,Sauder Classic Bookcase,4401.2,4,0,231.34,5.26
+CA-2024-01696,2024-04-05,2024-04-11,Same Day,Corporate,Central,Kansas City,Office Supplies,Office Supplies,GBC DocuBind P400,622.26,6,0,110.49,17.76
+CA-2024-01697,2024-04-11,2024-04-14,First Class,Corporate,Central,Chicago,Technology,Technology,"Samsung Monitor 27""",5742.9,9,0.3,841.92,14.66
+CA-2024-01698,2024-04-14,2024-04-21,First Class,Corporate,Central,Dallas,Technology,Technology,Belkin USB Hub,2173.12,4,0.1,353.96,16.29
+CA-2024-01699,2024-04-23,2024-04-30,Second Class,Corporate,South,New Orleans,Technology,Technology,Canon imageCLASS Copier,25554.42,9,0,3283.18,12.85
+CA-2024-01700,2024-04-19,2024-04-20,First Class,Home Office,East,Washington DC,Office Supplies,Office Supplies,Fellowes PB500 Binder,2627.46,9,0.3,614.46,23.39
+CA-2024-01701,2024-04-27,2024-04-30,Second Class,Corporate,Central,Minneapolis,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,1665.63,9,0.1,298.77,17.94
+CA-2024-01702,2024-04-23,2024-04-26,First Class,Consumer,South,Charlotte,Office Supplies,Office Supplies,Eldon Stackable Letterbox,1636.18,7,0,533.71,32.62
+CA-2024-01703,2024-04-10,2024-04-12,Second Class,Home Office,East,Boston,Furniture,Furniture,Bevis Round Conference Table,1306.14,2,0,84.87,6.5
+CA-2024-01704,2024-04-27,2024-05-04,Standard Class,Home Office,West,Denver,Furniture,Furniture,Global Adaptabilites Bookcase,4468.45,5,0,531.55,11.9
+CA-2024-01705,2024-04-04,2024-04-05,First Class,Corporate,South,Atlanta,Furniture,Furniture,Harbour Creations Chair,1165.18,2,0,99.97,8.58
+CA-2024-01706,2024-04-28,2024-05-03,Second Class,Home Office,South,Charlotte,Furniture,Furniture,Bevis Round Conference Table,1889.52,4,0.3,118.59,6.28
+CA-2024-01707,2024-04-11,2024-04-16,Second Class,Consumer,Central,Indianapolis,Office Supplies,Office Supplies,GBC DocuBind P400,618.0,10,0.1,188.93,30.57
+CA-2024-01708,2024-04-14,2024-04-16,Same Day,Home Office,Central,Kansas City,Technology,Technology,Canon imageCLASS Copier,6097.12,8,0.3,779.26,12.78
+CA-2024-01709,2024-04-19,2024-04-23,Same Day,Home Office,East,Baltimore,Office Supplies,Office Supplies,Acco Binder,2092.79,7,0.1,602.31,28.78
+CA-2024-01710,2024-04-23,2024-04-27,Second Class,Consumer,Central,Dallas,Furniture,Furniture,Chromcraft Bull-Nose Table,3492.6,3,0.2,283.09,8.11
+CA-2024-01711,2024-04-12,2024-04-13,First Class,Home Office,East,New York,Office Supplies,Office Supplies,Rogers File Cabinet,2564.3,10,0,441.23,17.21
+CA-2024-01712,2024-04-12,2024-04-15,Same Day,Home Office,West,San Francisco,Technology,Technology,Plantronics Savi W720,7674.45,5,0,1528.14,19.91
+CA-2024-01713,2024-04-06,2024-04-13,Same Day,Consumer,West,Seattle,Office Supplies,Office Supplies,Avery Binders,44.96,8,0,11.67,25.96
+CA-2024-01714,2024-04-26,2024-04-30,Same Day,Consumer,East,Philadelphia,Furniture,Furniture,Harbour Creations Chair,8116.8,8,0,866.02,10.67
+CA-2024-01715,2024-04-03,2024-04-10,First Class,Corporate,Central,Kansas City,Technology,Technology,Logitech MK710 Keyboard,20438.3,10,0,3289.81,16.1
+CA-2024-01716,2024-04-28,2024-04-30,Standard Class,Corporate,East,Washington DC,Office Supplies,Office Supplies,GBC DocuBind P400,173.74,1,0.3,53.73,30.93
+CA-2024-01717,2024-04-18,2024-04-23,Standard Class,Home Office,Central,Chicago,Technology,Technology,Lenovo ThinkPad,2878.28,1,0.1,495.57,17.22
+CA-2024-01718,2024-04-09,2024-04-16,Standard Class,Corporate,West,Denver,Technology,Technology,Canon imageCLASS Copier,3396.28,4,0.2,647.2,19.06
+CA-2024-01719,2024-04-02,2024-04-06,First Class,Home Office,Central,Indianapolis,Technology,Technology,Lenovo ThinkPad,1118.88,1,0,154.46,13.8
+CA-2024-01720,2024-05-06,2024-05-09,Same Day,Corporate,West,Los Angeles,Office Supplies,Office Supplies,Rogers File Cabinet,176.67,3,0,53.65,30.37
+CA-2024-01721,2024-05-06,2024-05-07,First Class,Corporate,Central,Chicago,Furniture,Furniture,Harbour Creations Chair,413.79,1,0,19.82,4.79
+CA-2024-01722,2024-05-25,2024-05-30,Standard Class,Corporate,West,Los Angeles,Technology,Technology,Apple Smart Phone Full Size,8240.0,10,0.2,1407.9,17.09
+CA-2024-01723,2024-05-03,2024-05-07,Standard Class,Corporate,West,Seattle,Furniture,Furniture,O Sullivan Living Dimensions,536.39,1,0,31.49,5.87
+CA-2024-01724,2024-05-10,2024-05-15,Second Class,Consumer,West,Denver,Furniture,Furniture,Sauder Classic Bookcase,4056.5,7,0.2,436.89,10.77
+CA-2024-01725,2024-05-14,2024-05-19,Second Class,Corporate,East,Boston,Office Supplies,Office Supplies,Rogers File Cabinet,138.64,8,0.2,43.33,31.25
+CA-2024-01726,2024-05-27,2024-06-02,First Class,Home Office,West,Phoenix,Technology,Technology,Plantronics Savi W720,20984.88,7,0,4286.03,20.42
+CA-2024-01727,2024-05-03,2024-05-07,Second Class,Corporate,West,Denver,Furniture,Furniture,Bush Advantage Collection Desk,2020.32,2,0,198.0,9.8
+CA-2024-01728,2024-05-21,2024-05-24,Second Class,Corporate,East,Philadelphia,Office Supplies,Office Supplies,Staple envelope,684.32,8,0,193.29,28.25
+CA-2024-01729,2024-05-21,2024-05-22,Same Day,Consumer,East,Baltimore,Technology,Technology,Motorola Smart Phone,15081.1,10,0.3,3169.21,21.01
+CA-2024-01730,2024-05-03,2024-05-10,Standard Class,Corporate,East,Washington DC,Office Supplies,Office Supplies,Rogers File Cabinet,327.8,2,0.3,107.69,32.85
+CA-2024-01731,2024-05-13,2024-05-15,Standard Class,Corporate,East,Washington DC,Office Supplies,Office Supplies,Staple envelope,41.81,1,0,9.37,22.41
+CA-2024-01732,2024-05-07,2024-05-08,Same Day,Consumer,West,Los Angeles,Office Supplies,Office Supplies,Staple envelope,1894.4,10,0,590.45,31.17
+CA-2024-01733,2024-05-07,2024-05-08,Same Day,Corporate,South,Houston,Technology,Technology,Lenovo ThinkPad,11820.6,4,0,2173.14,18.38
+CA-2024-01734,2024-05-22,2024-05-28,Standard Class,Home Office,West,San Francisco,Furniture,Furniture,Lesro Sheffield Chair,7129.6,10,0,322.46,4.52
+CA-2024-01735,2024-05-24,2024-05-31,First Class,Home Office,West,Denver,Office Supplies,Office Supplies,Rogers File Cabinet,308.0,5,0.3,87.96,28.56
+CA-2024-01736,2024-05-21,2024-05-27,Standard Class,Corporate,Central,Kansas City,Technology,Technology,HP LaserJet Pro,2583.5,1,0.1,393.47,15.23
+CA-2024-01737,2024-05-25,2024-05-26,First Class,Corporate,Central,Kansas City,Furniture,Furniture,Bevis Round Conference Table,530.4,4,0.2,60.19,11.35
+CA-2024-01738,2024-05-26,2024-05-27,Second Class,Consumer,West,San Francisco,Technology,Technology,Lenovo ThinkPad,11750.28,4,0,1908.03,16.24
+CA-2024-01739,2024-05-01,2024-05-05,First Class,Corporate,West,Seattle,Technology,Technology,Cisco TelePresence System,17170.79,7,0.3,3077.92,17.93
+CA-2024-01740,2024-05-27,2024-05-28,Same Day,Home Office,West,Phoenix,Technology,Technology,Logitech MK710 Keyboard,9786.42,6,0,1406.06,14.37
+CA-2024-01741,2024-05-02,2024-05-03,Standard Class,Consumer,Central,Kansas City,Furniture,Furniture,Eldon Fold N Roll Cart,3016.09,7,0,325.18,10.78
+CA-2024-01742,2024-05-21,2024-05-25,Same Day,Corporate,South,New Orleans,Technology,Technology,Lenovo ThinkPad,880.42,2,0,110.56,12.56
+CA-2024-01743,2024-05-28,2024-06-02,Standard Class,Home Office,East,Baltimore,Office Supplies,Office Supplies,Avery Binders,81.3,10,0.1,18.44,22.68
+CA-2024-01744,2024-05-19,2024-05-21,Second Class,Home Office,East,New York,Furniture,Furniture,Harbour Creations Chair,390.02,2,0,34.17,8.76
+CA-2024-01745,2024-05-12,2024-05-16,Standard Class,Consumer,South,Miami,Furniture,Furniture,Bush Advantage Collection Desk,7132.64,8,0,539.01,7.56
+CA-2024-01746,2024-05-21,2024-05-28,Same Day,Consumer,West,Seattle,Furniture,Furniture,Bevis Round Conference Table,2571.18,6,0,284.93,11.08
+CA-2024-01747,2024-05-17,2024-05-22,Same Day,Consumer,West,Seattle,Technology,Technology,Canon imageCLASS Copier,940.08,3,0.2,160.48,17.07
+CA-2024-01748,2024-06-26,2024-06-27,First Class,Corporate,West,San Francisco,Furniture,Furniture,Global Adaptabilites Bookcase,1752.48,6,0.3,136.8,7.81
+CA-2024-01749,2024-06-10,2024-06-14,Second Class,Corporate,South,Charlotte,Office Supplies,Office Supplies,Fiskars Scissors,317.22,6,0,76.41,24.09
+CA-2024-01750,2024-06-20,2024-06-22,Same Day,Home Office,South,Miami,Office Supplies,Office Supplies,Eldon Stackable Letterbox,587.28,4,0,178.34,30.37
+CA-2024-01751,2024-06-12,2024-06-13,Same Day,Corporate,West,San Francisco,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,221.16,2,0,57.71,26.09
+CA-2024-01752,2024-06-02,2024-06-03,Second Class,Home Office,West,Denver,Office Supplies,Office Supplies,Staple envelope,253.44,4,0,46.84,18.48
+CA-2024-01753,2024-06-01,2024-06-03,Same Day,Consumer,East,Baltimore,Technology,Technology,Apple Smart Phone Full Size,13726.75,5,0.3,1676.03,12.21
+CA-2024-01754,2024-06-10,2024-06-14,Same Day,Home Office,Central,Chicago,Technology,Technology,Apple Smart Phone Full Size,4813.92,4,0,756.92,15.72
+CA-2024-01755,2024-06-26,2024-06-28,Same Day,Home Office,South,Houston,Technology,Technology,Motorola Smart Phone,6671.12,4,0,1263.75,18.94
+CA-2024-01756,2024-06-19,2024-06-21,First Class,Consumer,South,Miami,Office Supplies,Office Supplies,Fiskars Scissors,826.02,9,0,148.45,17.97
+CA-2024-01757,2024-06-07,2024-06-13,Second Class,Consumer,South,Charlotte,Office Supplies,Office Supplies,Eldon Stackable Letterbox,472.96,2,0.2,145.77,30.82
+CA-2024-01758,2024-06-15,2024-06-17,Same Day,Home Office,East,Baltimore,Furniture,Furniture,Bevis Round Conference Table,5267.94,6,0.1,432.17,8.2
+CA-2024-01759,2024-06-21,2024-06-22,Second Class,Corporate,East,Baltimore,Furniture,Furniture,Lesro Sheffield Chair,1303.48,4,0,73.31,5.62
+CA-2024-01760,2024-06-09,2024-06-14,First Class,Home Office,West,Phoenix,Furniture,Furniture,Harbour Creations Chair,460.9,2,0.1,21.53,4.67
+CA-2024-01761,2024-06-11,2024-06-15,First Class,Corporate,West,Los Angeles,Furniture,Furniture,Lesro Sheffield Chair,4829.28,8,0.1,351.17,7.27
+CA-2024-01762,2024-06-21,2024-06-22,Standard Class,Home Office,East,Boston,Furniture,Furniture,Bush Advantage Collection Desk,6537.9,6,0.2,415.56,6.36
+CA-2024-01763,2024-06-12,2024-06-13,First Class,Corporate,Central,Dallas,Technology,Technology,Cisco TelePresence System,6487.83,9,0,906.12,13.97
+CA-2024-01764,2024-06-05,2024-06-12,First Class,Corporate,Central,Minneapolis,Technology,Technology,Lenovo ThinkPad,24752.61,9,0,2991.44,12.09
+CA-2024-01765,2024-06-25,2024-07-01,Second Class,Corporate,Central,Kansas City,Office Supplies,Office Supplies,Fiskars Scissors,144.24,1,0,36.42,25.25
+CA-2024-01766,2024-06-19,2024-06-26,Standard Class,Corporate,West,San Francisco,Furniture,Furniture,Bevis Round Conference Table,8356.86,9,0.1,817.31,9.78
+CA-2024-01767,2024-06-07,2024-06-11,Second Class,Home Office,West,San Francisco,Furniture,Furniture,O Sullivan Living Dimensions,8282.4,8,0,351.24,4.24
+CA-2024-01768,2024-06-11,2024-06-13,First Class,Home Office,West,Los Angeles,Furniture,Furniture,Harbour Creations Chair,3897.67,7,0.3,390.59,10.02
+CA-2024-01769,2024-06-05,2024-06-07,Same Day,Home Office,East,New York,Furniture,Furniture,HON 5400 Series Task Chair,4298.22,6,0.2,446.72,10.39
+CA-2024-01770,2024-06-18,2024-06-22,First Class,Home Office,South,Miami,Office Supplies,Office Supplies,GBC DocuBind P400,580.24,4,0.1,125.2,21.58
+CA-2024-01771,2024-06-02,2024-06-09,First Class,Corporate,West,Los Angeles,Furniture,Furniture,Sauder Classic Bookcase,6272.5,10,0,344.58,5.49
+CA-2024-01772,2024-06-15,2024-06-16,Second Class,Corporate,West,Seattle,Furniture,Furniture,Eldon Fold N Roll Cart,3964.56,6,0.1,213.08,5.37
+CA-2024-01773,2024-06-24,2024-06-25,First Class,Consumer,South,Miami,Furniture,Furniture,Chromcraft Bull-Nose Table,8047.97,7,0,879.29,10.93
+CA-2024-01774,2024-06-10,2024-06-15,Standard Class,Consumer,East,Washington DC,Technology,Technology,Lenovo ThinkPad,6328.2,4,0,1192.76,18.85
+CA-2024-01775,2024-07-17,2024-07-20,Standard Class,Consumer,East,Washington DC,Furniture,Furniture,Global Adaptabilites Bookcase,10647.5,10,0.2,817.9,7.68
+CA-2024-01776,2024-07-13,2024-07-18,Same Day,Home Office,West,Phoenix,Technology,Technology,Plantronics Savi W720,3998.7,3,0.2,551.65,13.8
+CA-2024-01777,2024-07-13,2024-07-19,First Class,Home Office,East,Boston,Office Supplies,Office Supplies,GBC DocuBind P400,75.71,1,0,24.54,32.41
+CA-2024-01778,2024-07-16,2024-07-20,First Class,Home Office,Central,Chicago,Office Supplies,Office Supplies,Avery Binders,366.84,9,0,82.08,22.37
+CA-2024-01779,2024-07-02,2024-07-06,Same Day,Corporate,East,Boston,Technology,Technology,Belkin USB Hub,358.61,1,0.3,67.94,18.95
+CA-2024-01780,2024-07-02,2024-07-03,Same Day,Home Office,East,Washington DC,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,194.15,5,0,64.73,33.34
+CA-2024-01781,2024-07-23,2024-07-27,Standard Class,Consumer,East,New York,Technology,Technology,Apple Smart Phone Full Size,4475.25,3,0,661.95,14.79
+CA-2024-01782,2024-07-24,2024-07-28,Second Class,Corporate,East,Boston,Technology,Technology,Belkin USB Hub,1113.36,3,0.3,218.62,19.64
+CA-2024-01783,2024-07-22,2024-07-27,Standard Class,Home Office,East,Boston,Technology,Technology,Canon imageCLASS Copier,5639.48,4,0.3,703.67,12.48
+CA-2024-01784,2024-07-01,2024-07-02,Second Class,Consumer,East,Philadelphia,Furniture,Furniture,Lesro Sheffield Chair,6574.19,7,0,751.47,11.43
+CA-2024-01785,2024-07-11,2024-07-18,Second Class,Home Office,West,Phoenix,Technology,Technology,Canon imageCLASS Copier,8351.52,4,0,1054.94,12.63
+CA-2024-01786,2024-07-27,2024-07-30,Same Day,Home Office,Central,Chicago,Furniture,Furniture,Eldon Fold N Roll Cart,4257.0,6,0,234.83,5.52
+CA-2024-01787,2024-07-12,2024-07-15,Second Class,Corporate,South,Houston,Technology,Technology,Cisco TelePresence System,578.19,3,0,107.2,18.54
+CA-2024-01788,2024-07-21,2024-07-26,Same Day,Corporate,East,New York,Furniture,Furniture,Bush Advantage Collection Desk,775.26,6,0.1,85.93,11.08
+CA-2024-01789,2024-07-06,2024-07-09,Second Class,Corporate,South,Houston,Office Supplies,Office Supplies,Fiskars Scissors,363.92,2,0.3,126.02,34.63
+CA-2024-01790,2024-07-03,2024-07-06,Second Class,Home Office,East,Philadelphia,Office Supplies,Office Supplies,Eldon Stackable Letterbox,184.52,1,0.1,49.27,26.7
+CA-2024-01791,2024-07-25,2024-07-26,Standard Class,Home Office,East,New York,Technology,Technology,Lenovo ThinkPad,4118.65,5,0,670.72,16.28
+CA-2024-01792,2024-07-05,2024-07-09,Same Day,Home Office,West,Seattle,Furniture,Furniture,Global Adaptabilites Bookcase,3196.32,4,0.3,188.73,5.9
+CA-2024-01793,2024-07-21,2024-07-28,Standard Class,Corporate,Central,Minneapolis,Technology,Technology,Logitech MK710 Keyboard,1634.49,1,0.3,355.92,21.78
+CA-2024-01794,2024-07-18,2024-07-19,Same Day,Home Office,West,Seattle,Technology,Technology,Apple Smart Phone Full Size,9736.56,4,0,1846.32,18.96
+CA-2024-01795,2024-07-03,2024-07-10,Second Class,Consumer,East,Boston,Furniture,Furniture,HON 5400 Series Task Chair,1267.04,8,0.3,70.19,5.54
+CA-2024-01796,2024-07-08,2024-07-13,Second Class,Home Office,West,San Francisco,Furniture,Furniture,Global Adaptabilites Bookcase,1114.78,2,0,86.25,7.74
+CA-2024-01797,2024-07-10,2024-07-15,First Class,Consumer,West,San Francisco,Furniture,Furniture,Bush Advantage Collection Desk,9310.8,8,0.1,522.45,5.61
+CA-2024-01798,2024-07-17,2024-07-22,Same Day,Consumer,East,Boston,Furniture,Furniture,O Sullivan Living Dimensions,6520.92,7,0.1,688.4,10.56
+CA-2024-01799,2024-08-18,2024-08-24,Same Day,Corporate,South,Atlanta,Furniture,Furniture,Sauder Classic Bookcase,1104.51,3,0.1,85.15,7.71
+CA-2024-01800,2024-08-23,2024-08-27,First Class,Home Office,East,Washington DC,Technology,Technology,Motorola Smart Phone,2363.84,4,0,328.49,13.9
+CA-2024-01801,2024-08-13,2024-08-17,Standard Class,Consumer,East,Washington DC,Office Supplies,Office Supplies,Staple envelope,970.55,5,0.1,259.78,26.77
+CA-2024-01802,2024-08-09,2024-08-16,Standard Class,Corporate,East,Baltimore,Technology,Technology,HP LaserJet Pro,9614.28,6,0.3,1623.49,16.89
+CA-2024-01803,2024-08-16,2024-08-17,Second Class,Home Office,Central,Kansas City,Office Supplies,Office Supplies,Avery Binders,1146.78,6,0.3,327.16,28.53
+CA-2024-01804,2024-08-09,2024-08-11,Standard Class,Consumer,West,Phoenix,Office Supplies,Office Supplies,Fellowes PB500 Binder,1756.1,10,0,496.14,28.25
+CA-2024-01805,2024-08-03,2024-08-08,First Class,Corporate,Central,Kansas City,Furniture,Furniture,Lesro Sheffield Chair,4244.52,4,0.1,226.09,5.33
+CA-2024-01806,2024-08-19,2024-08-22,First Class,Consumer,East,Baltimore,Furniture,Furniture,O Sullivan Living Dimensions,6459.32,7,0,736.01,11.39
+CA-2024-01807,2024-08-23,2024-08-26,Standard Class,Consumer,Central,Minneapolis,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,296.17,1,0,92.78,31.33
+CA-2024-01808,2024-08-24,2024-08-28,Same Day,Consumer,Central,Kansas City,Furniture,Furniture,Bush Advantage Collection Desk,832.71,3,0,45.73,5.49
+CA-2024-01809,2024-08-06,2024-08-08,Same Day,Corporate,West,Los Angeles,Furniture,Furniture,Global Adaptabilites Bookcase,919.91,1,0,96.35,10.47
+CA-2024-01810,2024-08-03,2024-08-06,Second Class,Consumer,East,Baltimore,Technology,Technology,Motorola Smart Phone,2453.06,2,0,362.26,14.77
+CA-2024-01811,2024-08-25,2024-08-26,Standard Class,Home Office,East,New York,Technology,Technology,Plantronics Savi W720,23992.4,10,0,2979.52,12.42
+CA-2024-01812,2024-08-16,2024-08-20,First Class,Corporate,East,Baltimore,Office Supplies,Office Supplies,Acco Binder,1099.74,6,0.3,238.98,21.73
+CA-2024-01813,2024-08-20,2024-08-21,Same Day,Corporate,Central,Minneapolis,Furniture,Furniture,O Sullivan Living Dimensions,6347.1,6,0,663.28,10.45
+CA-2024-01814,2024-08-28,2024-09-02,Same Day,Corporate,Central,Dallas,Technology,Technology,Cisco TelePresence System,14302.65,5,0,2791.08,19.51
+CA-2024-01815,2024-08-01,2024-08-07,First Class,Home Office,Central,Kansas City,Furniture,Furniture,Global Adaptabilites Bookcase,591.78,6,0,40.72,6.88
+CA-2024-01816,2024-08-24,2024-08-29,Standard Class,Home Office,Central,Dallas,Furniture,Furniture,O Sullivan Living Dimensions,940.26,2,0.1,108.25,11.51
+CA-2024-01817,2024-08-28,2024-09-02,Same Day,Consumer,Central,Minneapolis,Furniture,Furniture,Sauder Classic Bookcase,9590.5,10,0,933.47,9.73
+CA-2024-01818,2024-08-28,2024-09-01,Second Class,Home Office,Central,Minneapolis,Office Supplies,Office Supplies,Rogers File Cabinet,808.32,3,0.1,275.65,34.1
+CA-2024-01819,2024-08-04,2024-08-08,Second Class,Corporate,West,San Francisco,Office Supplies,Office Supplies,GBC DocuBind P400,52.27,1,0.1,17.55,33.58
+CA-2024-01820,2024-08-22,2024-08-24,Second Class,Corporate,Central,Kansas City,Office Supplies,Office Supplies,GBC DocuBind P400,1727.1,9,0.3,429.0,24.84
+CA-2024-01821,2024-08-13,2024-08-19,Second Class,Consumer,South,Charlotte,Technology,Technology,Logitech MK710 Keyboard,14095.69,7,0.1,2798.11,19.85
+CA-2024-01822,2024-08-11,2024-08-17,First Class,Home Office,West,Seattle,Technology,Technology,Cisco TelePresence System,28210.5,10,0,5485.86,19.45
+CA-2024-01823,2024-08-24,2024-08-25,First Class,Corporate,West,Seattle,Office Supplies,Office Supplies,Fiskars Scissors,116.3,5,0.1,29.9,25.71
+CA-2024-01824,2024-08-19,2024-08-21,Second Class,Corporate,Central,Dallas,Furniture,Furniture,Lesro Sheffield Chair,1045.5,2,0.1,86.84,8.31
+CA-2024-01825,2024-08-22,2024-08-26,Standard Class,Home Office,Central,Minneapolis,Office Supplies,Office Supplies,Eldon Stackable Letterbox,547.29,3,0.3,98.06,17.92
+CA-2024-01826,2024-08-09,2024-08-16,Same Day,Corporate,East,Philadelphia,Furniture,Furniture,Eldon Fold N Roll Cart,6156.8,10,0.1,654.44,10.63
+CA-2024-01827,2024-09-28,2024-10-04,Same Day,Corporate,South,Atlanta,Technology,Technology,Apple Smart Phone Full Size,8584.64,4,0,1075.28,12.53
+CA-2024-01828,2024-09-13,2024-09-16,Standard Class,Corporate,West,San Francisco,Office Supplies,Office Supplies,Rogers File Cabinet,1434.86,7,0.1,499.42,34.81
+CA-2024-01829,2024-09-23,2024-09-30,First Class,Consumer,East,Philadelphia,Technology,Technology,Apple Smart Phone Full Size,11450.25,9,0.2,1523.91,13.31
+CA-2024-01830,2024-09-23,2024-09-27,Standard Class,Consumer,East,Boston,Furniture,Furniture,Chromcraft Bull-Nose Table,5424.4,5,0.3,308.0,5.68
+CA-2024-01831,2024-09-13,2024-09-17,Standard Class,Consumer,East,Baltimore,Technology,Technology,Motorola Smart Phone,8367.18,3,0.1,1084.43,12.96
+CA-2024-01832,2024-09-14,2024-09-16,First Class,Corporate,West,Denver,Furniture,Furniture,Lesro Sheffield Chair,2480.8,7,0.1,122.81,4.95
+CA-2024-01833,2024-09-25,2024-10-01,First Class,Corporate,Central,Dallas,Furniture,Furniture,O Sullivan Living Dimensions,1902.12,2,0.3,207.7,10.92
+CA-2024-01834,2024-09-04,2024-09-05,Standard Class,Consumer,Central,Kansas City,Technology,Technology,Cisco TelePresence System,3088.54,2,0.2,577.18,18.69
+CA-2024-01835,2024-09-26,2024-10-01,First Class,Corporate,East,Baltimore,Furniture,Furniture,Eldon Fold N Roll Cart,1530.12,3,0.3,183.61,12.0
+CA-2024-01836,2024-09-06,2024-09-10,Standard Class,Corporate,East,New York,Technology,Technology,Belkin USB Hub,1272.32,1,0.2,256.69,20.17
+CA-2024-01837,2024-09-25,2024-10-02,Second Class,Home Office,East,Baltimore,Furniture,Furniture,Eldon Fold N Roll Cart,4646.24,4,0,519.49,11.18
+CA-2024-01838,2024-09-02,2024-09-04,Standard Class,Corporate,West,Phoenix,Office Supplies,Office Supplies,GBC DocuBind P400,658.4,10,0.2,119.99,18.22
+CA-2024-01839,2024-09-18,2024-09-20,Standard Class,Corporate,West,Los Angeles,Furniture,Furniture,Harbour Creations Chair,8220.52,7,0,761.65,9.27
+CA-2024-01840,2024-09-22,2024-09-27,First Class,Home Office,South,Charlotte,Office Supplies,Office Supplies,Acco Binder,370.08,8,0,91.81,24.81
+CA-2024-01841,2024-09-22,2024-09-29,Second Class,Consumer,East,Baltimore,Technology,Technology,Cisco TelePresence System,825.74,1,0,114.62,13.88
+CA-2024-01842,2024-09-05,2024-09-11,Second Class,Corporate,East,Boston,Furniture,Furniture,Bush Advantage Collection Desk,5526.6,10,0,464.17,8.4
+CA-2024-01843,2024-09-23,2024-09-25,Second Class,Home Office,East,New York,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,585.99,9,0,161.68,27.59
+CA-2024-01844,2024-09-20,2024-09-22,Standard Class,Corporate,Central,Indianapolis,Furniture,Furniture,Bevis Round Conference Table,7001.12,7,0.1,457.23,6.53
+CA-2024-01845,2024-09-18,2024-09-19,First Class,Corporate,South,Miami,Technology,Technology,Cisco TelePresence System,11783.97,9,0,1802.19,15.29
+CA-2024-01846,2024-09-09,2024-09-10,Standard Class,Consumer,Central,Dallas,Office Supplies,Office Supplies,Avery Binders,232.52,2,0.1,79.93,34.38
+CA-2024-01847,2024-09-04,2024-09-09,Standard Class,Corporate,West,Seattle,Furniture,Furniture,Chromcraft Bull-Nose Table,5187.06,6,0.2,566.59,10.92
+CA-2024-01848,2024-09-06,2024-09-09,Second Class,Corporate,South,Miami,Technology,Technology,HP LaserJet Pro,15500.34,9,0.1,3227.2,20.82
+CA-2024-01849,2024-09-05,2024-09-09,First Class,Home Office,West,Denver,Office Supplies,Office Supplies,Fellowes PB500 Binder,2219.5,10,0.3,356.39,16.06
+CA-2024-01850,2024-09-23,2024-09-27,First Class,Home Office,Central,Dallas,Furniture,Furniture,O Sullivan Living Dimensions,1714.92,3,0.1,117.16,6.83
+CA-2024-01851,2024-10-10,2024-10-16,Standard Class,Consumer,South,Charlotte,Office Supplies,Office Supplies,Avery Binders,569.0,2,0,131.61,23.13
+CA-2024-01852,2024-10-19,2024-10-20,Same Day,Consumer,West,San Francisco,Office Supplies,Office Supplies,Fellowes PB500 Binder,448.62,2,0.1,117.01,26.08
+CA-2024-01853,2024-10-22,2024-10-28,Standard Class,Consumer,Central,Dallas,Furniture,Furniture,Bevis Round Conference Table,7754.67,9,0.2,561.73,7.24
+CA-2024-01854,2024-10-24,2024-10-30,Second Class,Consumer,Central,Indianapolis,Office Supplies,Office Supplies,Avery Binders,1861.2,9,0.1,294.95,15.85
+CA-2024-01855,2024-10-12,2024-10-13,Second Class,Corporate,West,Seattle,Office Supplies,Office Supplies,Rogers File Cabinet,1058.19,7,0,194.81,18.41
+CA-2024-01856,2024-10-10,2024-10-13,First Class,Consumer,South,Houston,Technology,Technology,"Samsung Monitor 27""",625.48,4,0.1,114.54,18.31
+CA-2024-01857,2024-10-15,2024-10-20,First Class,Corporate,South,Charlotte,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,175.68,8,0.1,26.56,15.12
+CA-2024-01858,2024-10-13,2024-10-16,Second Class,Home Office,East,New York,Technology,Technology,Motorola Smart Phone,438.81,1,0,74.25,16.92
+CA-2024-01859,2024-10-08,2024-10-12,First Class,Home Office,East,Washington DC,Technology,Technology,Plantronics Savi W720,8517.46,7,0,1332.55,15.64
+CA-2024-01860,2024-10-06,2024-10-08,Standard Class,Consumer,West,Phoenix,Furniture,Furniture,Chromcraft Bull-Nose Table,5500.44,6,0.3,222.57,4.05
+CA-2024-01861,2024-10-24,2024-10-27,First Class,Home Office,West,Los Angeles,Technology,Technology,HP LaserJet Pro,606.89,1,0.1,84.9,13.99
+CA-2024-01862,2024-10-11,2024-10-18,Standard Class,Consumer,West,Phoenix,Furniture,Furniture,Sauder Classic Bookcase,4494.56,7,0.1,511.86,11.39
+CA-2024-01863,2024-10-17,2024-10-18,Standard Class,Home Office,South,Houston,Technology,Technology,Logitech MK710 Keyboard,1193.24,4,0.1,242.21,20.3
+CA-2024-01864,2024-10-25,2024-10-29,First Class,Consumer,East,Philadelphia,Technology,Technology,Cisco TelePresence System,7640.8,4,0,1474.1,19.29
+CA-2024-01865,2024-10-22,2024-10-29,Second Class,Home Office,Central,Minneapolis,Office Supplies,Office Supplies,Avery Binders,444.71,7,0,129.54,29.13
+CA-2024-01866,2024-10-08,2024-10-09,Same Day,Consumer,West,Denver,Furniture,Furniture,Sauder Classic Bookcase,1588.32,3,0,98.33,6.19
+CA-2024-01867,2024-10-13,2024-10-17,First Class,Consumer,West,San Francisco,Technology,Technology,Canon imageCLASS Copier,9210.33,9,0,1688.54,18.33
+CA-2024-01868,2024-10-10,2024-10-11,Second Class,Corporate,East,New York,Furniture,Furniture,HON 5400 Series Task Chair,2436.05,5,0.3,281.22,11.54
+CA-2024-01869,2024-10-02,2024-10-08,Same Day,Consumer,East,New York,Technology,Technology,Canon imageCLASS Copier,4524.84,6,0.2,756.58,16.72
+CA-2024-01870,2024-10-04,2024-10-05,First Class,Corporate,West,Phoenix,Technology,Technology,Plantronics Savi W720,2096.44,1,0,413.1,19.7
+CA-2024-01871,2024-10-17,2024-10-22,Standard Class,Corporate,Central,Minneapolis,Office Supplies,Office Supplies,Fiskars Scissors,451.68,6,0.2,92.68,20.52
+CA-2024-01872,2024-10-04,2024-10-05,Same Day,Consumer,South,Miami,Furniture,Furniture,Lesro Sheffield Chair,11645.3,10,0,1289.41,11.07
+CA-2024-01873,2024-10-11,2024-10-14,Standard Class,Consumer,South,Houston,Office Supplies,Office Supplies,Fiskars Scissors,2375.6,8,0.3,452.31,19.04
+CA-2024-01874,2024-10-25,2024-11-01,Standard Class,Home Office,West,Phoenix,Furniture,Furniture,Bush Advantage Collection Desk,10549.26,9,0.1,1177.22,11.16
+CA-2024-01875,2024-10-17,2024-10-24,Standard Class,Corporate,South,Houston,Furniture,Furniture,Bevis Round Conference Table,266.97,1,0,16.53,6.19
+CA-2024-01876,2024-10-24,2024-10-31,Second Class,Consumer,South,Houston,Office Supplies,Office Supplies,Avery Binders,1057.21,7,0.2,271.17,25.65
+CA-2024-01877,2024-10-13,2024-10-18,Standard Class,Consumer,East,Baltimore,Furniture,Furniture,O Sullivan Living Dimensions,1558.8,5,0.2,62.8,4.03
+CA-2024-01878,2024-10-09,2024-10-12,Second Class,Consumer,South,Charlotte,Furniture,Furniture,Bevis Round Conference Table,1647.72,4,0,101.3,6.15
+CA-2024-01879,2024-11-09,2024-11-11,Standard Class,Consumer,East,Philadelphia,Technology,Technology,Motorola Smart Phone,13195.7,5,0,1651.47,12.52
+CA-2024-01880,2024-11-11,2024-11-12,First Class,Corporate,West,Seattle,Furniture,Furniture,Harbour Creations Chair,3381.48,9,0.2,171.4,5.07
+CA-2024-01881,2024-11-24,2024-11-27,Standard Class,Home Office,South,Houston,Office Supplies,Office Supplies,Avery Binders,241.56,3,0.3,36.99,15.31
+CA-2024-01882,2024-11-28,2024-12-04,First Class,Corporate,Central,Kansas City,Office Supplies,Office Supplies,Acco Binder,1675.1,10,0,524.93,31.34
+CA-2024-01883,2024-11-24,2024-11-30,Second Class,Corporate,West,Phoenix,Technology,Technology,Apple Smart Phone Full Size,8404.34,7,0,1766.73,21.02
+CA-2024-01884,2024-11-24,2024-11-26,Second Class,Corporate,East,Boston,Technology,Technology,"Samsung Monitor 27""",1049.9,5,0,143.09,13.63
+CA-2024-01885,2024-11-21,2024-11-25,Standard Class,Home Office,West,Los Angeles,Furniture,Furniture,Chromcraft Bull-Nose Table,1782.44,2,0,90.87,5.1
+CA-2024-01886,2024-11-25,2024-12-02,Standard Class,Consumer,East,New York,Technology,Technology,Canon imageCLASS Copier,526.71,1,0,103.77,19.7
+CA-2024-01887,2024-11-18,2024-11-24,Same Day,Corporate,Central,Chicago,Office Supplies,Office Supplies,GBC DocuBind P400,1539.3,6,0,257.05,16.7
+CA-2024-01888,2024-11-08,2024-11-09,Standard Class,Consumer,Central,Minneapolis,Technology,Technology,Motorola Smart Phone,19100.88,9,0,3490.66,18.27
+CA-2024-01889,2024-11-05,2024-11-06,First Class,Corporate,West,Seattle,Technology,Technology,HP LaserJet Pro,873.6,4,0,142.15,16.27
+CA-2024-01890,2024-11-16,2024-11-18,Standard Class,Corporate,West,Phoenix,Office Supplies,Office Supplies,GBC DocuBind P400,142.46,2,0,48.62,34.13
+CA-2024-01891,2024-11-02,2024-11-07,Same Day,Consumer,Central,Chicago,Technology,Technology,Cisco TelePresence System,1972.47,3,0.2,341.33,17.3
+CA-2024-01892,2024-11-12,2024-11-13,Standard Class,Home Office,West,Seattle,Furniture,Furniture,Bush Advantage Collection Desk,5530.9,5,0,514.03,9.29
+CA-2024-01893,2024-11-11,2024-11-13,Standard Class,Consumer,Central,Dallas,Office Supplies,Office Supplies,Fellowes PB500 Binder,957.46,7,0.1,296.21,30.94
+CA-2024-01894,2024-11-05,2024-11-07,Same Day,Home Office,East,Philadelphia,Technology,Technology,Logitech MK710 Keyboard,8084.51,7,0.1,1369.68,16.94
+CA-2024-01895,2024-11-13,2024-11-17,Second Class,Home Office,East,Philadelphia,Technology,Technology,Apple Smart Phone Full Size,14100.66,9,0.2,2444.73,17.34
+CA-2024-01896,2024-11-19,2024-11-26,Standard Class,Consumer,East,Baltimore,Office Supplies,Office Supplies,Rogers File Cabinet,849.64,4,0,167.41,19.7
+CA-2024-01897,2024-11-02,2024-11-05,Same Day,Corporate,East,Washington DC,Office Supplies,Office Supplies,GBC DocuBind P400,1532.28,6,0,495.47,32.34
+CA-2024-01898,2024-11-08,2024-11-10,Second Class,Home Office,West,Denver,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,85.92,4,0.3,15.26,17.76
+CA-2024-01899,2024-11-12,2024-11-13,Standard Class,Consumer,East,New York,Office Supplies,Office Supplies,Dixon Ticonderoga Pencils,401.02,2,0.2,66.07,16.48
+CA-2024-01900,2024-11-01,2024-11-06,First Class,Consumer,West,San Francisco,Technology,Technology,Cisco TelePresence System,4036.83,7,0.3,558.06,13.82
+CA-2024-01901,2024-11-10,2024-11-11,Second Class,Consumer,East,Philadelphia,Furniture,Furniture,HON 5400 Series Task Chair,441.6,3,0.2,40.36,9.14
+CA-2024-01902,2024-11-18,2024-11-24,Same Day,Consumer,West,Phoenix,Furniture,Furniture,Chromcraft Bull-Nose Table,5547.25,5,0.3,444.61,8.01
+CA-2024-01903,2024-11-13,2024-11-15,Standard Class,Consumer,South,Atlanta,Office Supplies,Office Supplies,Rogers File Cabinet,492.48,4,0.1,79.39,16.12
+CA-2024-01904,2024-11-27,2024-12-01,First Class,Consumer,Central,Kansas City,Furniture,Furniture,O Sullivan Living Dimensions,423.69,3,0.1,29.54,6.97
+CA-2024-01905,2024-11-01,2024-11-03,Standard Class,Home Office,West,Los Angeles,Technology,Technology,Logitech MK710 Keyboard,3069.35,5,0,401.0,13.06
+CA-2024-01906,2024-11-21,2024-11-22,Same Day,Consumer,Central,Minneapolis,Technology,Technology,Apple Smart Phone Full Size,3668.52,4,0.2,798.51,21.77
+CA-2024-01907,2024-12-12,2024-12-19,First Class,Corporate,West,Los Angeles,Office Supplies,Office Supplies,Ibico EPK-21 Binding System,1439.15,5,0,359.85,25.0
+CA-2024-01908,2024-12-04,2024-12-09,Standard Class,Home Office,South,Houston,Technology,Technology,Belkin USB Hub,652.5,3,0.1,130.24,19.96
+CA-2024-01909,2024-12-21,2024-12-22,Second Class,Consumer,West,San Francisco,Office Supplies,Office Supplies,GBC DocuBind P400,1063.6,4,0.3,331.31,31.15
+CA-2024-01910,2024-12-21,2024-12-26,Same Day,Corporate,South,Charlotte,Furniture,Furniture,Lesro Sheffield Chair,3487.08,6,0,176.08,5.05
+CA-2024-01911,2024-12-20,2024-12-21,Second Class,Consumer,West,Phoenix,Technology,Technology,Lenovo ThinkPad,5297.01,3,0,1162.38,21.94
+CA-2024-01912,2024-12-16,2024-12-17,First Class,Consumer,Central,Minneapolis,Furniture,Furniture,Eldon Fold N Roll Cart,3450.88,8,0,395.9,11.47
+CA-2024-01913,2024-12-23,2024-12-30,Second Class,Corporate,East,Philadelphia,Technology,Technology,Motorola Smart Phone,7081.12,8,0,1184.86,16.73
+CA-2024-01914,2024-12-28,2024-12-31,Same Day,Consumer,South,Charlotte,Furniture,Furniture,Harbour Creations Chair,3766.84,7,0.3,337.41,8.96
+CA-2024-01915,2024-12-03,2024-12-09,Standard Class,Consumer,East,Baltimore,Office Supplies,Office Supplies,Staple envelope,1079.75,7,0.3,218.72,20.26
+CA-2024-01916,2024-12-01,2024-12-03,Second Class,Consumer,Central,Dallas,Office Supplies,Office Supplies,Rogers File Cabinet,181.48,2,0.1,32.96,18.16
+CA-2024-01917,2024-12-15,2024-12-19,Standard Class,Consumer,East,Washington DC,Furniture,Furniture,Harbour Creations Chair,9793.26,9,0,755.92,7.72
+CA-2024-01918,2024-12-13,2024-12-16,Same Day,Consumer,South,New Orleans,Office Supplies,Office Supplies,Avery Binders,197.2,2,0.1,68.88,34.93
+CA-2024-01919,2024-12-16,2024-12-18,Standard Class,Corporate,West,Phoenix,Technology,Technology,Motorola Smart Phone,4250.12,4,0.2,523.33,12.31
+CA-2024-01920,2024-12-07,2024-12-08,First Class,Corporate,South,Atlanta,Office Supplies,Office Supplies,Eldon Stackable Letterbox,1044.28,4,0.3,355.61,34.05
+CA-2024-01921,2024-12-09,2024-12-13,Second Class,Home Office,West,San Francisco,Technology,Technology,Cisco TelePresence System,2000.52,2,0.1,382.54,19.12
+CA-2024-01922,2024-12-03,2024-12-07,Same Day,Corporate,Central,Minneapolis,Technology,Technology,Canon imageCLASS Copier,17373.54,6,0,2600.65,14.97
+CA-2024-01923,2024-12-23,2024-12-27,Second Class,Home Office,East,Baltimore,Office Supplies,Office Supplies,Fellowes PB500 Binder,1645.32,6,0,434.47,26.41
+CA-2024-01924,2024-12-22,2024-12-29,First Class,Corporate,West,Denver,Furniture,Furniture,Harbour Creations Chair,575.34,6,0,64.28,11.17
+CA-2024-01925,2024-12-15,2024-12-22,Standard Class,Consumer,West,Phoenix,Technology,Technology,Canon imageCLASS Copier,5873.22,3,0.2,1080.04,18.39
+CA-2024-01926,2024-12-25,2024-12-27,Standard Class,Home Office,West,San Francisco,Furniture,Furniture,Bevis Round Conference Table,5028.6,10,0,341.17,6.78
+CA-2024-01927,2024-12-17,2024-12-24,Same Day,Corporate,East,Philadelphia,Technology,Technology,Plantronics Savi W720,4286.1,2,0.1,792.46,18.49
+CA-2024-01928,2024-12-04,2024-12-06,Same Day,Consumer,East,Baltimore,Furniture,Furniture,Harbour Creations Chair,4478.32,8,0.2,242.51,5.42
+CA-2024-01929,2024-12-28,2024-12-29,Same Day,Consumer,East,Washington DC,Furniture,Furniture,Lesro Sheffield Chair,1965.3,2,0.3,94.93,4.83
+CA-2024-01930,2024-12-21,2024-12-25,Second Class,Corporate,West,Denver,Office Supplies,Office Supplies,GBC DocuBind P400,1588.14,9,0,248.59,15.65
+CA-2024-01931,2024-12-07,2024-12-14,Same Day,Corporate,West,Phoenix,Furniture,Furniture,Eldon Fold N Roll Cart,9156.96,8,0.1,623.12,6.8
+CA-2024-01932,2024-12-10,2024-12-13,Second Class,Home Office,West,Seattle,Office Supplies,Office Supplies,Rogers File Cabinet,478.4,5,0.1,158.13,33.05
+CA-2024-01933,2024-12-05,2024-12-12,First Class,Home Office,West,Phoenix,Technology,Technology,Canon imageCLASS Copier,15277.14,6,0.3,2626.08,17.19
+CA-2024-01934,2024-12-18,2024-12-22,Same Day,Home Office,East,Baltimore,Office Supplies,Office Supplies,Avery Binders,747.2,4,0,170.86,22.87

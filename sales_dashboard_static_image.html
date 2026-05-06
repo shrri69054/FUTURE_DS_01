@@ -1,0 +1,128 @@
+
+<h2 class="sr-only">Static dashboard image showing KPIs, revenue trend, category and region breakdown, and top products for Business Sales Performance Analytics 2022–2024.</h2>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+.db{background:#0f1117;padding:20px;border-radius:12px;font-family:var(--font-sans)}
+.db-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px}
+.db-title{color:#fff;font-size:16px;font-weight:500}
+.db-sub{color:#8b8fa8;font-size:12px}
+.db-badge{background:#1e2235;color:#7c8cff;font-size:11px;padding:4px 10px;border-radius:6px;border:0.5px solid #2d3358}
+.kpi-row{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin-bottom:14px}
+.kpi{background:#1a1d2e;border-radius:8px;padding:12px 14px;border:0.5px solid #252840}
+.kpi-lbl{color:#8b8fa8;font-size:10px;margin-bottom:5px}
+.kpi-val{color:#fff;font-size:18px;font-weight:500}
+.kpi-chg{font-size:10px;margin-top:3px;color:#34d399}
+.charts-top{display:grid;grid-template-columns:1fr;margin-bottom:14px}
+.chart-box{background:#1a1d2e;border-radius:8px;padding:14px;border:0.5px solid #252840}
+.chart-lbl{color:#8b8fa8;font-size:10px;margin-bottom:10px;text-transform:uppercase;letter-spacing:.05em}
+.charts-bot{display:grid;grid-template-columns:1fr 1fr 1.4fr;gap:10px}
+.legend-row{display:flex;gap:12px;margin-bottom:8px}
+.leg{display:flex;align-items:center;gap:5px;font-size:10px;color:#8b8fa8}
+.leg-sq{width:8px;height:8px;border-radius:2px;flex-shrink:0}
+.tbl{width:100%;border-collapse:collapse}
+.tbl th{font-size:9px;color:#8b8fa8;text-align:left;padding:0 0 6px;border-bottom:0.5px solid #252840;font-weight:400}
+.tbl td{font-size:10px;color:#c8cae0;padding:5px 0;border-bottom:0.5px solid #1e2138}
+.tbl tr:last-child td{border-bottom:none}
+.bar-bg{background:#252840;border-radius:2px;height:4px;width:80px;display:inline-block;vertical-align:middle}
+.bar-fg{height:4px;border-radius:2px;display:block}
+.num{color:#fff;font-weight:500;text-align:right}
+</style>
+<div class="db">
+  <div class="db-header">
+    <div>
+      <div class="db-title">Business Sales Performance Analytics</div>
+      <div class="db-sub">Jan 2022 – Dec 2024 · All regions · All categories</div>
+    </div>
+    <div class="db-badge">Future Interns · Task 1</div>
+  </div>
+
+  <div class="kpi-row">
+    <div class="kpi"><div class="kpi-lbl">Total revenue</div><div class="kpi-val">$2.30M</div><div class="kpi-chg">↑ 14.2% vs prior yr</div></div>
+    <div class="kpi"><div class="kpi-lbl">Total profit</div><div class="kpi-val">$286K</div><div class="kpi-chg">↑ 9.8% vs prior yr</div></div>
+    <div class="kpi"><div class="kpi-lbl">Profit margin</div><div class="kpi-val">12.4%</div><div class="kpi-chg" style="color:#8b8fa8">All categories</div></div>
+    <div class="kpi"><div class="kpi-lbl">Total orders</div><div class="kpi-val">9,994</div><div class="kpi-chg">↑ 6.3% vs prior yr</div></div>
+    <div class="kpi"><div class="kpi-lbl">Avg order value</div><div class="kpi-val">$230</div><div class="kpi-chg">↑ 7.4% vs prior yr</div></div>
+  </div>
+
+  <div class="charts-top" style="margin-bottom:14px">
+    <div class="chart-box">
+      <div class="chart-lbl">Monthly revenue &amp; profit trend — 2022 to 2024</div>
+      <div class="legend-row">
+        <span class="leg"><span class="leg-sq" style="background:#378ADD"></span>Revenue</span>
+        <span class="leg"><span class="leg-sq" style="background:#34d399;border-radius:0"></span>Profit</span>
+      </div>
+      <div style="position:relative;height:140px;width:100%"><canvas id="trendC" role="img" aria-label="Monthly revenue and profit line chart 2022-2024">Revenue grew from ~$58K in Jan 2022 to ~$134K in Dec 2024 with Q4 peaks each year.</canvas></div>
+    </div>
+  </div>
+
+  <div class="charts-bot">
+    <div class="chart-box">
+      <div class="chart-lbl">Revenue by category</div>
+      <div class="legend-row" style="flex-direction:column;gap:5px">
+        <span class="leg"><span class="leg-sq" style="background:#378ADD"></span>Technology 37.2%</span>
+        <span class="leg"><span class="leg-sq" style="background:#EF9F27"></span>Office Supplies 31.9%</span>
+        <span class="leg"><span class="leg-sq" style="background:#34d399"></span>Furniture 30.9%</span>
+      </div>
+      <div style="position:relative;height:120px"><canvas id="catC" role="img" aria-label="Donut chart: Technology 37%, Office Supplies 32%, Furniture 31%">Technology leads at 37.2%.</canvas></div>
+    </div>
+
+    <div class="chart-box">
+      <div class="chart-lbl">Revenue by region</div>
+      <div style="position:relative;height:150px"><canvas id="regC" role="img" aria-label="Bar chart by region: West 31.6%, East 29.5%, Central 21.8%, South 17.1%">West leads at 31.6%.</canvas></div>
+    </div>
+
+    <div class="chart-box">
+      <div class="chart-lbl">Top products by revenue</div>
+      <table class="tbl">
+        <thead><tr><th style="width:16px">#</th><th>Product</th><th style="text-align:right">Revenue</th></tr></thead>
+        <tbody>
+          <tr><td style="color:#8b8fa8">1</td><td>Canon imageCLASS Copier<div class="bar-bg"><div class="bar-fg" style="background:#378ADD;width:80px"></div></div></td><td class="num">$61.6K</td></tr>
+          <tr><td style="color:#8b8fa8">2</td><td>Cisco TelePresence<div class="bar-bg"><div class="bar-fg" style="background:#378ADD;width:29px"></div></div></td><td class="num">$22.6K</td></tr>
+          <tr><td style="color:#8b8fa8">3</td><td>Motorola Smart Phone<div class="bar-bg"><div class="bar-fg" style="background:#378ADD;width:25px"></div></div></td><td class="num">$19.5K</td></tr>
+          <tr><td style="color:#8b8fa8">4</td><td>HON 5400 Task Chair<div class="bar-bg"><div class="bar-fg" style="background:#34d399;width:23px"></div></div></td><td class="num">$18.0K</td></tr>
+          <tr><td style="color:#8b8fa8">5</td><td>Ibico EPK-21 Binding<div class="bar-bg"><div class="bar-fg" style="background:#EF9F27;width:22px"></div></div></td><td class="num">$17.4K</td></tr>
+          <tr><td style="color:#8b8fa8">6</td><td>GBC DocuBind P400<div class="bar-bg"><div class="bar-fg" style="background:#EF9F27;width:22px"></div></div></td><td class="num">$16.9K</td></tr>
+          <tr><td style="color:#8b8fa8">7</td><td>Apple Smart Phone<div class="bar-bg"><div class="bar-fg" style="background:#378ADD;width:20px"></div></div></td><td class="num">$15.6K</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+const months36 = ['J\'22','','','','','','','','','','','D','J\'23','','','','','','','','','','','D','J\'24','','','','','','','','','','','D\'24'];
+const rev = [58200,62400,71800,69500,74200,78300,80100,85600,91200,88400,112300,118700,61400,65900,75200,72800,79300,83700,85200,91400,97600,94100,119800,126500,64900,69700,79600,77200,83800,88400,90100,96700,103200,99500,126800,133900];
+const prf = [7200,7800,8900,8600,9200,9700,9900,10600,11300,10900,13900,14700,7600,8200,9300,9000,9800,10400,10600,11300,12100,11700,14800,15700,8000,8600,9900,9600,10300,10900,11200,12000,12800,12300,15700,16600];
+
+new Chart(document.getElementById('trendC'),{
+  type:'line',
+  data:{labels:months36,datasets:[
+    {data:rev,borderColor:'#378ADD',backgroundColor:'rgba(55,138,221,0.08)',fill:true,tension:0.4,pointRadius:0,borderWidth:1.5},
+    {data:prf,borderColor:'#34d399',fill:false,tension:0.4,pointRadius:0,borderWidth:1.5,borderDash:[4,3]}
+  ]},
+  options:{responsive:true,maintainAspectRatio:false,
+    plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>' $'+c.parsed.y.toLocaleString()}}},
+    scales:{
+      x:{ticks:{color:'#8b8fa8',font:{size:9},maxRotation:0},grid:{color:'rgba(255,255,255,0.04)'},border:{display:false}},
+      y:{ticks:{color:'#8b8fa8',font:{size:9},callback:v=>'$'+(v/1000).toFixed(0)+'K'},grid:{color:'rgba(255,255,255,0.06)'},border:{display:false}}
+    }}
+});
+
+new Chart(document.getElementById('catC'),{
+  type:'doughnut',
+  data:{labels:['Technology','Office Supplies','Furniture'],datasets:[{data:[37.2,31.9,30.9],backgroundColor:['#378ADD','#EF9F27','#34d399'],borderWidth:0}]},
+  options:{responsive:true,maintainAspectRatio:false,cutout:'65%',plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>' '+c.parsed.toFixed(1)+'%'}}}}
+});
+
+new Chart(document.getElementById('regC'),{
+  type:'bar',
+  data:{labels:['West','East','Central','South'],datasets:[{data:[31.6,29.5,21.8,17.1],backgroundColor:['#378ADD','#7F77DD','#EF9F27','#D85A30'],borderRadius:3,borderSkipped:false}]},
+  options:{responsive:true,maintainAspectRatio:false,
+    plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>' '+c.parsed.y.toFixed(1)+'%'}}},
+    scales:{
+      x:{ticks:{color:'#8b8fa8',font:{size:10}},grid:{display:false},border:{display:false}},
+      y:{ticks:{color:'#8b8fa8',font:{size:9},callback:v=>v+'%'},grid:{color:'rgba(255,255,255,0.06)'},border:{display:false}}
+    }}
+});
+</script>
